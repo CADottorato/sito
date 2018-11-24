@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# Benvenuti al sito di CAD!
+# Codificare, Analizzare, Diffondere (CAD): <br />Le Digital Humanities nei progetti dottorali
+
+**Benvenuta/o!<br />**
+Qui trovarai tutte le informazioni relative alla CAD (Codificare, Analizzare, Diffondere) summer school 2019. 
 
 
 ### Menu
@@ -23,7 +26,7 @@ layout: default
 
 BREVEMENTE: Come nasce, a chi è rivolta, da chi è finanziata, i formatori, digital humanities 
 
-READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui sopra)
+READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui sopra + borse ecc.)
 
 
 ## Informazioni organizzative
@@ -35,6 +38,8 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 <dd>UniVerona, via... [MAPPA LINK]</dd>
 <dt>Aule</dt>
 <dd>....</dd>
+<dt>Cena sociale</dt>
+<dd>Ristorante ...</dd>
 <dt>Locandina pubblicitaria</dt>
 <dd>Scaricala <a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">qui</a> (318 KB)</dd>
 </dl>
@@ -43,7 +48,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 
 ## Programma
 
-### 16 luglio
+### Martedì 16 luglio
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -53,7 +58,8 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 | ok           | good `zoute` drop | yumm  |
 
 
-### 17 luglio
+### Mercoledì 17 luglio - *Codificare*
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -63,7 +69,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 | ok           | good `zoute` drop | yumm  |
 
 
-### 18 luglio
+### Giovedì 18 luglio - *Analizzare*
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -73,7 +79,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 | ok           | good `zoute` drop | yumm  |
 
 
-### 19 luglio
+### Venerdì 19 luglio - *Diffondere*
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
