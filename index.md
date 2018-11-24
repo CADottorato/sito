@@ -23,6 +23,8 @@ layout: default
 Come nasce, a chi è rivolta, da chi è finanziata, i formatori, cos'è l'informatica umanistica.
 
 
+READ MORE... (link alla full page con tutto il papiro)
+
 
 ## Informazioni organizzative
 
