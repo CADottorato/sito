@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Codificare, Analizzare, Diffondere (CAD): <br />Le Digital Humanities nei progetti dottorali
+# Codificare, Analizzare, Diffondere: <br />Le Digital Humanities nei progetti dottorali
 
-**Benvenuta/o!<br />**
-Qui trovarai tutte le informazioni relative alla CAD (Codificare, Analizzare, Diffondere) summer school 2019. 
+### Benvenuta/o!
+Qui troverai tutte le informazioni relative alla CAD (Codificare, Analizzare, Diffondere) summer school 2019. 
 
 
 ### Menu
@@ -28,6 +28,9 @@ BREVEMENTE: Come nasce, a chi è rivolta, da chi è finanziata, i formatori, dig
 
 READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui sopra + borse ecc.)
 
+*Comitato organizzativo*: ... <br />
+*Comitato scientifico*: ...
+
 
 ## Informazioni organizzative
 
@@ -35,13 +38,15 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 <dt>Data</dt>
 <dd>16-19 luglio 2019</dd>
 <dt>Luogo</dt>
-<dd>UniVerona, via... [MAPPA LINK]</dd>
+<dd>Università di Verona, Polo Santa Marta, via... [MAPPA LINK]</dd>
 <dt>Aule</dt>
 <dd>....</dd>
 <dt>Cena sociale</dt>
 <dd>Ristorante ...</dd>
 <dt>Locandina pubblicitaria</dt>
-<dd>Scaricala <a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">qui</a> (318 KB)</dd>
+<dd>Scaricala da <a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">qui</a> (318 KB)</dd>
+<dt>Social</dt>
+<dd>Segui la nostra pagina Facebook e/o l'hashtag di Twitter (LINKS)</dd>
 </dl>
 
 
@@ -50,44 +55,39 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 
 ### Martedì 16 luglio
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Ore          | Sessione          | Formatore      |
+|:-------------|:------------------|:------         |
+| 09:00-10:00  | Stilometria       | Simone Rebora  |
+| out of stock | good and plenty   | nice           |
+| 11:00-11:30  | PAUSA CAFFE'      |                |
+
 
 
 ### Mercoledì 17 luglio - *Codificare*
 
 
-| head1        | head two          | three |
+| Ore        | Sessione          | Formatore |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
 
 
 ### Giovedì 18 luglio - *Analizzare*
 
-| head1        | head two          | three |
+| Ore       | Sessione         | Formatore |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
 
 
 ### Venerdì 19 luglio - *Diffondere*
 
-| head1        | head two          | three |
+| Ore        | Sessione          | Formatore |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
 
 ## Materiali
 
