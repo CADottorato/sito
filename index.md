@@ -8,7 +8,7 @@ layout: default
 ### Menu
 
 * [Introduzione](#introduzione)
-* [Informazioni organizzative](#informationi_organizzative)
+* [Informazioni organizzative](#informazioni-organizzative)
 * [Programma](#programma)
 * [Materiali](#materiali)
 * [Contattaci](#contattaci)
@@ -29,14 +29,20 @@ Come nasce, a chi e' rivolta, da chi e' finanziata.
 <dt>Data</dt>
 <dd>16-19 luglio 2019</dd>
 <dt>Luogo</dt>
-<dd>UniVerona, via...</dd>
-<dt>...</dt>
+<dd>UniVerona, via... [MAPPA LINK]</dd>
+<dt>Visita Verona</dt>
+<dd>Sito A</dd>
+<dd>Sito B</dd>
+<dd>Sito C</dd>
+
 </dl>
 
-Scarica locandina QUI.
+Scarica locandina (link) (DIMENSIONE IN KB/MB).
 
 
 ## Programma
+
+### 16 luglio
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -46,10 +52,24 @@ Scarica locandina QUI.
 | ok           | good `zoute` drop | yumm  |
 
 
+### 17 luglio
+
+
+### 18 luglio
+
+
+### 19 luglio
+
+
+
 ## Materiali
 
 
 ## Contattaci
+
+Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo:
+
+INDIRIZZO.
 
 
 ## Ringraziamenti
