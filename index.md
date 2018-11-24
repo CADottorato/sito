@@ -130,7 +130,7 @@ logo univerona grande
 ![UniVR](https://github.com/CADottorato/sito/blob/master/assets/img/logo-univr.png)
 
 
-## [Torna al menù &uarr;](#menu)
+## [Torna al menù &uarr;](#menù)
 
 <!--
 
