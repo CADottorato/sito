@@ -1,6 +1,6 @@
 title: CAD Dottorato
 logo: /assets/img/CAD-blu.png
 description: CAD (Codificare, Analizzare, Diffondere) e' una scuola dottorale finanziata dall'Associazione Internazionale Professori di Italiano.
-show_downloads: true
+show_downloads: false
 #google_analytics:
 theme: jekyll-theme-minimal
