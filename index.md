@@ -95,7 +95,7 @@ loghi aipi, aiucd, cad
 
 logo univerona grande
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![UniVR](https://github.com/CADottorato/sito/blob/master/assets/img/logo-univr.png)
 
 
 <!--
