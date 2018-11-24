@@ -32,7 +32,7 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.repository_url }}">Visualizza in <strong>GitHub</strong></a></li>
+          <!--<li><a href="{{ site.github.repository_url }}">Visualizza in <strong>GitHub</strong></a></li>-->
         </ul>
         {% endif %}
       </header>
@@ -45,12 +45,11 @@
         {% if site.github.is_project_page %}
         <!--<p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>-->
 
-        <p></p>
-        <ul>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Organizz</a></li>
-          <li><a href="#">Contatto</a></li>
-        </ul>
+          <h2>MENU</h2>
+          <p><a href="#">About</a></p><br />
+          <p><a href="#">Organizz</a></p><br />
+          <p><a href="#">Contatto</a></p>
+        
 
         <p><a href="http://www.infoaipi.org/" target="_blank" title="Opens in new tab">AIPI website</a></p>
         {% endif %}
