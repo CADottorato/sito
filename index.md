@@ -8,7 +8,7 @@ layout: default
 Qui troverai tutte le informazioni relative alla CAD (Codificare, Analizzare, Diffondere) summer school 2019. 
 
 
-### Menu
+### Menù
 
 * [Introduzione](#introduzione)
 * [Informazioni organizzative](#informazioni-organizzative)
@@ -87,7 +87,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 
 ### Segnala problemi
 
-Per segnalare problemi o la presenza di refusi nei materiali didattici, create un nuovo *issue* [QUI](https://github.com/CADottorato/materiali/issues).
+Per segnalare problemi o la presenza di refusi nei materiali didattici, crea un nuovo *issue* [QUI](https://github.com/CADottorato/materiali/issues).
 
 
 ## Approfondimento
@@ -99,8 +99,8 @@ Per segnalare problemi o la presenza di refusi nei materiali didattici, create u
 
 ## Feedback
 
-Come valutereste la vostra esperienza a CAD?
-Aiutateci a migliorare scrivendo a ....
+Come valuteresti la tua esperienza a CAD?
+Aiutaci a migliorare scrivendo a ....
 
 
 ## Contattaci
@@ -130,17 +130,14 @@ logo univerona grande
 ![UniVR](https://github.com/CADottorato/sito/blob/master/assets/img/logo-univr.png)
 
 
-# [Torna su &uarr;](#menu)
+## [Torna al menù &uarr;](#menu)
 
 <!--
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 
 ```js
