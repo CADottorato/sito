@@ -12,6 +12,7 @@ layout: default
 * [Programma](#programma)
 * [Materiali](#materiali)
 * [Approfondimento](#approfondimento)
+* [Feedback](#feedback)
 * [Contattaci](#contattaci)
 * [Ringraziamenti](#ringraziamenti)
 
@@ -20,10 +21,9 @@ layout: default
 
 ## Introduzione
 
-Come nasce, a chi è rivolta, da chi è finanziata, i formatori, cos'è l'informatica umanistica.
+BREVEMENTE: Come nasce, a chi è rivolta, da chi è finanziata, i formatori, digital humanities 
 
-
-READ MORE... (link alla full page con tutto il papiro)
+READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui sopra)
 
 
 ## Informazioni organizzative
@@ -33,14 +33,12 @@ READ MORE... (link alla full page con tutto il papiro)
 <dd>16-19 luglio 2019</dd>
 <dt>Luogo</dt>
 <dd>UniVerona, via... [MAPPA LINK]</dd>
-<dt>Visita Verona</dt>
-<dd>Sito A</dd>
-<dd>Sito B</dd>
-<dd>Sito C</dd>
-
+<dt>Aule</dt>
+<dd>....</dd>
+<dt>Locandina pubblicitaria</dt>
+<dd>Scaricala <a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">qui</a> (318 KB)</dd>
 </dl>
 
-Scarica locandina (link) (DIMENSIONE IN KB/MB).
 
 
 ## Programma
@@ -57,18 +55,53 @@ Scarica locandina (link) (DIMENSIONE IN KB/MB).
 
 ### 17 luglio
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 
 ### 18 luglio
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 
 ### 19 luglio
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 
 ## Materiali
 
 
+### Segnala problemi
+
+Per segnalare problemi o la presenza di refusi nei materiali didattici, create un nuovo *issue* [QUI](https://github.com/CADottorato/materiali/issues).
+
+
 ## Approfondimento
+
+* GitHub
+* Lemmatizzazione
+* Stilometria
+* Ecc.
+
+## Feedback
+
+Come valutereste la vostra esperienza a CAD?
+Aiutateci a migliorare scrivendo a ....
 
 
 ## Contattaci
