@@ -55,39 +55,32 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 
 ### Martedì 16 luglio
 
-| Ore          | Sessione          | Formatore      |
-|:-------------|:------------------|:------         |
-| 09:00-10:00  | Stilometria       | Simone Rebora  |
-| out of stock | good and plenty   | nice           |
-| 11:00-11:30  | PAUSA CAFFE'      |                |
-
+| Ore          | Sessione          | Formatore  | Aula |
+|:-------------|:------------------|:-----------|:-----|
+| 09:00-10:00  | Stilometria       | S. Rebora  |      |
+| 11:00-11:30  | PAUSA CAFFE'      |            |      |
 
 
 ### Mercoledì 17 luglio - *Codificare*
 
 
-| Ore        | Sessione          | Formatore |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-
+| Ore          | Sessione          | Formatore    | Aula |
+|:-------------|:----------------|:---------------|:-----|
+|              |                 |                |      |
 
 
 ### Giovedì 18 luglio - *Analizzare*
 
-| Ore       | Sessione         | Formatore |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-
+| Ore       | Sessione         | Formatore | Aula   |
+|:----------|:-----------------|:----------|:-------|
+|           |                  |           |        |
 
 
 ### Venerdì 19 luglio - *Diffondere*
 
-| Ore        | Sessione          | Formatore |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| Ore        | Sessione        | Formatore | Aula |
+|:-----------|:----------------|:----------|:-----|
+|            |                 |           |      |
 
 ## Materiali
 
@@ -136,6 +129,8 @@ logo univerona grande
 
 ![UniVR](https://github.com/CADottorato/sito/blob/master/assets/img/logo-univr.png)
 
+
+# [Torna su &uarr;](#menu)
 
 <!--
 
