@@ -8,7 +8,8 @@ layout: default
 Qui troverai tutte le informazioni relative alla CAD (Codificare, Analizzare, Diffondere) summer school 2019. 
 
 
-### Menù
+### <a name="menu"></a>Menù 
+<!--using <a> anchor in header to work-around grave accent issue in markdown anchor-->
 
 * [Introduzione](#introduzione)
 * [Informazioni organizzative](#informazioni-organizzative)
@@ -32,7 +33,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 *Comitato scientifico*: ...
 
 
-## Informazioni organizzative
+## Informazioni organizzative [&uarr;](#menu)
 
 <dl>
 <dt>Data</dt>
@@ -51,7 +52,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 
 
 
-## Programma
+## Programma [&uarr;](#menu)
 
 ### Martedì 16 luglio
 
@@ -82,55 +83,55 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 |:-----------|:----------------|:----------|:-----|
 |            |                 |           |      |
 
-## Materiali
+## Materiali [&uarr;](#menu)
 
 
-### Segnala problemi
+### Segnala problemi 
 
 Per segnalare problemi o la presenza di refusi nei materiali didattici, crea un nuovo *issue* [QUI](https://github.com/CADottorato/materiali/issues).
 
 
-## Approfondimento
+## Approfondimento [&uarr;](#menu)
 
 * GitHub
 * Lemmatizzazione
 * Stilometria
 * Ecc.
 
-## Feedback
+## Feedback [&uarr;](#menu)
 
 Come valuteresti la tua esperienza a CAD?
 Aiutaci a migliorare scrivendo a ....
 
 
-## Contattaci
+## Contattaci [&uarr;](#menu)
 
 Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo:
 
 INDIRIZZO.
 
 
-## Ringraziamenti
+## Ringraziamenti [&uarr;](#menu)
 
 AIPI, AIUCD, Profs di UniVR, ecc.
 
 
 
 
-### Small image
+### Small image [&uarr;](#menu)
 
 loghi aipi, aiucd, cad
 
 ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Large image [&uarr;](#menu)
 
 logo univerona grande
 
 ![UniVR](https://github.com/CADottorato/sito/blob/master/assets/img/logo-univr.png)
 
 
-## [Torna al menù &uarr;](#menù)
+## [Torna al men&#249; &uarr;](#menu)
 
 <!--
 
