@@ -11,6 +11,7 @@ layout: default
 * [Informazioni organizzative](#informazioni-organizzative)
 * [Programma](#programma)
 * [Materiali](#materiali)
+* [Approfondimento](#approfondimento)
 * [Contattaci](#contattaci)
 * [Ringraziamenti](#ringraziamenti)
 
@@ -19,7 +20,7 @@ layout: default
 
 ## Introduzione
 
-Come nasce, a chi e' rivolta, da chi e' finanziata.
+Come nasce, a chi è rivolta, da chi è finanziata, i formatori, cos'è l'informatica umanistica.
 
 
 
@@ -63,6 +64,9 @@ Scarica locandina (link) (DIMENSIONE IN KB/MB).
 
 
 ## Materiali
+
+
+## Approfondimento
 
 
 ## Contattaci
