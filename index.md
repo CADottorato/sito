@@ -17,13 +17,13 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 * [Informazioni organizzative](#informazioni-organizzative)
 * [Requisiti](#requisiti)
 * [Iscrizioni](#iscrizioni)
-* [Programma](#programma)
 * [Contattaci](#contattaci)
 * [Ringraziamenti](#ringraziamenti)
 
 <!--* [Materiali](#materiali)
 * [Approfondimento](#approfondimento)
-* [Feedback](#feedback)-->
+* [Feedback](#feedback)
+* [Programma](#programma) -->
 
 * * * 
 
@@ -65,11 +65,11 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 <dt>Data</dt>
 <dd>16-19 luglio 2019</dd>
 <dt>Luogo</dt>
-<dd>Università di Verona, Polo Santa Marta, via... [MAPPA LINK]</dd>
+<dd>Università di Verona, <a href="http://comunicazione.univr.it/santamarta/index.html" target="_blank" title="Opens in new tab">Polo Santa Marta</a></dd>
 <dt>Locandina pubblicitaria</dt>
-<dd>Scaricala da <a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">qui</a> (318 KB)</dd>
+<dd><a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">Download</a> (318 KB)</dd>
 <dt>Social</dt>
-<dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag di Twitter (LINK)</dd>
+<dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag di Twitter #cadottorato19</dd>
 </dl>
 
 <!--
@@ -81,7 +81,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 
 ## Requisiti
 
-Non sono richieste competenze computazionali, salvo un computer + ....
+Non sono richieste competenze computazionali. I partecipanti devono tuttavia munirsi di computer portatile + ....
 
 
 
@@ -97,7 +97,7 @@ Scarica il formulario per l'iscrizione [qui](docs/iscrizioni_form.rtf).
 La richiesta di iscrizione deve contenere un dossier con:
 
 * una breve presentazione della tesi di dottorato, che ne evidenzi obiettivi di ricerca e metodologia (max 600 parole);
-* una breve presentazione su come pensi usare le Digital Humanities nel tuo progetto di ricerca, corredata da tre domande (max 400 parole);
+* una breve presentazione su come pensi usare le Digital Humanities nel tuo progetto di ricerca, corredata da tre domande di ricerca (max 400 parole);
 * (opzionale) se già disponibile, un dataset che vorresti trattare con metodi digitali.
 
 
@@ -184,9 +184,7 @@ Il comitato scientifico-organizzativo ringrazia innanzitutto l'AIPI per ... AIUC
 </p>
 
 
-![UniVR](assets/img/logo-univr.png)
-
-
+<a href="https://www.univr.it/en/home" target="_blank" title="Opens in new tab"><img src="assets/img/logo-univr.png" /></a>
 
 <!--
 
