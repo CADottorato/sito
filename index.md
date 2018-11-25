@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Codificare, Analizzare, Diffondere: <br />Le Digital Humanities nei progetti dottorali
+![CAD-logo](assets/img/CAD-logo-long.png)
+
+# Codificare, Analizzare, Diffondere: <br />Le *Digital Humanities* nei progetti dottorali
 
 ### Benvenuta/o!
 Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019. 
@@ -31,21 +33,30 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 L’uso dell’**informatica nelle ricerche umanistiche** è oggigiorno sempre più importante e si presenta come un dibattito attuale e cruciale nell’**innovazione scientifica**. Si assiste infatti ogni anno alla crescita del numero di specialisti e ricercatori che decidono di impegnarsi nell’uso degli **strumenti digitali** nelle loro ricerche **linguistiche, letterarie, storiche, geografiche** ecc.
 Considerando l’estrema attualità di questi strumenti e l’ottima **integrazione** che dimostrano con le metodologie d’analisi tipiche delle discipline umanistiche, pare opportuno prevedere una formazione specifica per **dottorandi in italianistica** che non abbiano ancora avuto l’opportunità di conoscere le **potenzialità** dell’informatica e l’**impatto** che potrebbe avere sui loro progetti di tesi. 
 
-La filosofia di questa scuola è mettere al centro il **testo**, secondo la filosofia tipica delle Digital Humanities: **Codificare, Analizzare e Diffondere**. 
+La filosofia di questa scuola è mettere al centro il **testo**, secondo la filosofia tipica delle Digital Humanities: **Codificare, Analizzare e Diffondere**.
 
 In questi tre giorni si vogliono fornire ai partecipanti un **panorama bibliografico**, degli **strumenti pratici** e delle **indicazioni per la formazione**, da consultare in seguito, per approfondire le competenze utili ad ognuno, con una coscienza critica di cosa è necessario per fare cosa. ll **principale scopo** della formazione proposta è **domandare direttamente ai dottorandi cosa fanno, per suggerire cosa potrebbero fare**. 
 
+### Pubblico
 
-#### Comitato scientifico-organizzativo 
+La scuola si rivolge ai **dottorandi di tutti i campi di studio legati all’italianistica**. Si può proporre di ampliare il pubblico ad altre discipline, nel caso non ci siano abbastanza candidati italianisti alla scadenza delle iscrizioni. 
+Si considera un **numero massimo di 20 persone**, quattro per ogni formatore.
+La lingua della scuola è l’italiano e si possono accettare interventi di formatori in lingua inglese.
+
+### I formatori
+
+I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université Grenoble Alpes – GERCI). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
+
+
+
+### Comitato scientifico-organizzativo 
 
 * **Dott. Giovanni Pietro Vitali** – University College Cork
-* **Dott.ssa Greta Franzini** – Università Cattolica del Sacro Cuore (Milano)
+* **Dott.ssa Greta Franzini** – Università Cattolica del Sacro Cuore
 * **Dott. Simon Gabay** – Université de Neuchâtel
 * **Dott.ssa Elena Spadini** - Université de Lausanne
 * **Dott. Simone Rebora** – Università di Verona e Georg-August-Universität Göttingen
-
-
-READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui sopra + borse ecc.)
+* **Dott. Stefano Bazzaco** - Università di Verona
 
 
 ## Informazioni organizzative
@@ -69,6 +80,8 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 
 
 ## Requisiti
+
+Non sono richieste competenze computazionali, salvo un computer + ....
 
 
 
@@ -156,7 +169,7 @@ Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: INDIRIZ
 
 ## Ringraziamenti
 
-AIPI, AIUCD, Profs di UniVR, ecc.
+Il comitato scientifico-organizzativo ringrazia innanzitutto l'AIPI per ... AIUCD, Profs di UniVR, ecc.
 
 <br/><br />
 ### [Torna al men&#249; &uarr;](#menu)
