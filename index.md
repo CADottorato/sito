@@ -5,7 +5,7 @@ layout: default
 # Codificare, Analizzare, Diffondere: <br />Le Digital Humanities nei progetti dottorali
 
 ### Benvenuta/o!
-Qui troverai tutte le informazioni relative alla CAD (Codificare, Analizzare, Diffondere) summer school 2019. 
+Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019. 
 
 
 ### <a name="menu"></a>Menù 
@@ -13,6 +13,7 @@ Qui troverai tutte le informazioni relative alla CAD (Codificare, Analizzare, Di
 
 * [Introduzione](#introduzione)
 * [Informazioni organizzative](#informazioni-organizzative)
+* [Iscrizioni](#iscrizioni)
 * [Programma](#programma)
 * [Materiali](#materiali)
 * [Approfondimento](#approfondimento)
@@ -33,7 +34,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 *Comitato scientifico*: ...
 
 
-## Informazioni organizzative [&uarr;](#menu)
+## Informazioni organizzative
 
 <dl>
 <dt>Data</dt>
@@ -47,12 +48,14 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 <dt>Locandina pubblicitaria</dt>
 <dd>Scaricala da <a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">qui</a> (318 KB)</dd>
 <dt>Social</dt>
-<dd>Segui la nostra pagina Facebook e/o l'hashtag di Twitter (LINKS)</dd>
+<dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag di Twitter (LINK)</dd>
 </dl>
 
+## Iscrizioni
 
 
-## Programma [&uarr;](#menu)
+
+## Programma
 
 ### Martedì 16 luglio
 
@@ -83,7 +86,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 |:-----------|:----------------|:----------|:-----|
 |            |                 |           |      |
 
-## Materiali [&uarr;](#menu)
+## Materiali
 
 
 ### Segnala problemi 
@@ -91,47 +94,43 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 Per segnalare problemi o la presenza di refusi nei materiali didattici, crea un nuovo *issue* [QUI](https://github.com/CADottorato/materiali/issues).
 
 
-## Approfondimento [&uarr;](#menu)
+## Approfondimento
 
 * GitHub
-* Lemmatizzazione
 * Stilometria
 * Ecc.
 
-## Feedback [&uarr;](#menu)
+## Feedback
 
 Come valuteresti la tua esperienza a CAD?
 Aiutaci a migliorare scrivendo a ....
 
 
-## Contattaci [&uarr;](#menu)
+## Contattaci
 
-Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo:
-
-INDIRIZZO.
+Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: INDIRIZZO.
 
 
-## Ringraziamenti [&uarr;](#menu)
+## Ringraziamenti
 
 AIPI, AIUCD, Profs di UniVR, ecc.
 
+<br/><br />
+### [Torna al men&#249; &uarr;](#menu)
 
 
 
-### Small image [&uarr;](#menu)
+* * *
 
-loghi aipi, aiucd, cad
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image [&uarr;](#menu)
-
-logo univerona grande
-
-![UniVR](https://github.com/CADottorato/sito/blob/master/assets/img/logo-univr.png)
+<p align="center">
+  <a href="http://www.aiucd.it" target="_blank" title="Opens in new tab"><img src="assets/img/aipi-logo.png" width="100px" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://www.infoaipi.org/" target="_blank" title="Opens in new tab"><img src="assets/img/aiucd-logo.png" width="250px" /></a> 
+</p>
 
 
-## [Torna al men&#249; &uarr;](#menu)
+![UniVR](assets/img/logo-univr.png)
+
+
 
 <!--
 
