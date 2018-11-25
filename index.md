@@ -69,7 +69,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 <dt>Locandina pubblicitaria</dt>
 <dd><a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">Download</a> (318 KB)</dd>
 <dt>Social</dt>
-<dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag di Twitter #cadottorato19</dd>
+<dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag Twitter #cadottorato19</dd>
 </dl>
 
 <!--
@@ -164,7 +164,7 @@ Aiutaci a migliorare scrivendo a ....-->
 
 ## Contattaci
 
-Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: INDIRIZZO.
+Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: **cadottorato@gmail.com**
 
 
 ## Ringraziamenti
