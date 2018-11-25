@@ -92,7 +92,7 @@ Non sono richieste competenze computazionali. I partecipanti devono tuttavia mun
 
 #### Come iscriversi
 
-Scarica il formulario per l'iscrizione [qui](docs/iscrizioni_form.rtf).
+Scarica il formulario per l'iscrizione [qui](assets/iscrizioni_form.rtf).
 
 La richiesta di iscrizione deve contenere un dossier con:
 
@@ -171,7 +171,7 @@ Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: xxx
 
 Il comitato scientifico-organizzativo ringrazia innanzitutto l'AIPI per ... AIUCD, Profs di UniVR, ecc.
 
-<br/><br />
+<br /><br />
 ### [Torna al men&#249; &uarr;](#menu)
 
 
