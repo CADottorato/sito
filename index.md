@@ -45,7 +45,7 @@ La lingua della scuola è l’italiano e si possono accettare interventi di form
 
 ### I formatori
 
-I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université Grenoble Alpes – GERCI). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
+I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université Grenoble Alpes). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
 
 
 
@@ -101,7 +101,7 @@ La richiesta di iscrizione deve contenere un dossier con:
 * (opzionale) se già disponibile, un dataset che vorresti trattare con metodi digitali.
 
 
-Formulario e dossier devono essere inviati in un **unico file** all'indirizzo xxx. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
+Formulario e dossier devono essere inviati in un **unico file** all'indirizzo cadottorato@gmail.com. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
 
 #### Informazioni importanti
 
@@ -164,7 +164,7 @@ Aiutaci a migliorare scrivendo a ....-->
 
 ## Contattaci
 
-Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: xxx
+Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: cadottorato@gmail.com
 
 
 ## Ringraziamenti
