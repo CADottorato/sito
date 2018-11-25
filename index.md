@@ -101,7 +101,7 @@ La richiesta di iscrizione deve contenere un dossier con:
 * (opzionale) se già disponibile, un dataset che vorresti trattare con metodi digitali.
 
 
-Formulario e dossier devono essere inviati in un **unico file** all'indirizzo XXXXXXX. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
+Formulario e dossier devono essere inviati in un **unico file** all'indirizzo cadottorato@gmail.com. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
 
 #### Informazioni importanti
 
