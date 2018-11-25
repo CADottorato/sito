@@ -39,17 +39,15 @@ In questi tre giorni si vogliono fornire ai partecipanti un **panorama bibliogra
 
 ### Pubblico
 
-La scuola si rivolge ai **dottorandi di tutti i campi di studio legati all’italianistica**. Si può proporre di ampliare il pubblico ad altre discipline, nel caso non ci siano abbastanza candidati italianisti alla scadenza delle iscrizioni. 
-Si considera un **numero massimo di 20 persone**, quattro per ogni formatore.
-La lingua della scuola è l’italiano e si possono accettare interventi di formatori in lingua inglese.
+La scuola si rivolge ai **dottorandi di tutti i campi di studio legati all’italianistica**. Si considera un **numero massimo di 20 persone**, quattro per ogni formatore. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in lingua inglese.
 
 ### I formatori
 
-I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université Grenoble Alpes). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
+I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université Grenoble Alpes) e del Prof. Fabio Ciotti (Università di Roma Tor Vergata, presidente AIUCD). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
 
 
 
-### Comitato scientifico-organizzativo 
+### Comitato organizzativo 
 
 * **Dott. Giovanni Pietro Vitali** – University College Cork
 * **Dott.ssa Greta Franzini** – Università Cattolica del Sacro Cuore
@@ -57,6 +55,14 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 * **Dott.ssa Elena Spadini** - Université de Lausanne
 * **Dott. Simone Rebora** – Università di Verona e Georg-August-Universität Göttingen
 * **Dott. Stefano Bazzaco** - Università di Verona
+
+### Comitato scientifico
+
+* **Prof. Anna Bognolo** - Università di Verona
+* **Prof. Adele Cipolla** - Università di Verona
+* **Prof. Elena Pierazzo** - Université Grenoble Alpes
+* **Prof. Fabio Ciotti** - Università di Roma Tor Vergata
+
 
 
 ## Informazioni organizzative
@@ -81,13 +87,13 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 
 ## Requisiti
 
-Non sono richieste competenze computazionali. I partecipanti devono tuttavia munirsi di computer portatile + ....
-
+Non sono richieste competenze computazionali. I partecipanti potranno usare i computer messi a disposizione dall'Università di Verona o lavorare sui propri. Nel secondo caso, andranno installati alcuni programmi prima della Summer School, e saranno fornite istruzioni per l'installazione. 
+Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in inglese.
 
 
 ## Iscrizioni
 
-*Attenzione!* La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro febbraio 2019. I criteri per la valutazione sono la completezza del dossier e la varietà delle provenienze (saranno privilegiati candidati di diverse università rispetto a più candidati della stessa università); il progetto di tesi in sé non è sottoposto ad alcuna valutazione. La selezione è volta ad assicurare che il numero dei partecipanti non sia troppo elevato, a discapito della qualità della formazione.
+*Attenzione!* La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro febbraio 2019. I criteri per la valutazione sono la completezza del dossier e la varietà delle provenienze (saranno privilegiati candidati di diverse università rispetto a più candidati della stessa università); il progetto di tesi in sé non è sottoposto ad alcuna valutazione. La selezione è volta ad assicurare che il numero dei partecipanti non superi il limite di 20, a discapito della qualità della formazione.
 
 
 #### Come iscriversi
@@ -97,8 +103,8 @@ Scarica il formulario per l'iscrizione [qui](assets/iscrizioni_form.rtf).
 La richiesta di iscrizione deve contenere un dossier con:
 
 * una breve presentazione della tesi di dottorato, che ne evidenzi obiettivi di ricerca e metodologia (max 600 parole);
-* una breve presentazione su come pensi usare le Digital Humanities nel tuo progetto di ricerca, corredata da tre domande di ricerca (max 400 parole);
-* (opzionale) se già disponibile, un dataset che vorresti trattare con metodi digitali.
+* una breve presentazione su come si pensa usare le Digital Humanities nel proprio progetto di ricerca, corredata da tre domande di ricerca (max 400 parole);
+* (opzionale) se già disponibile, un dataset che che si vuole trattare con metodi digitali.
 
 
 Formulario e dossier devono essere inviati in un **unico file** all'indirizzo **cadottorato@gmail.com**. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
@@ -169,7 +175,7 @@ Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: **cadot
 
 ## Ringraziamenti
 
-Il comitato scientifico-organizzativo ringrazia innanzitutto l'AIPI per ... AIUCD, Profs di UniVR, ecc.
+Si ringraziano l'AIPI e l'AIUCD per il sostegno finanziario e il contributo alla summer school!
 
 <br /><br />
 ### [Torna al men&#249; &uarr;](#menu)
