@@ -31,11 +31,8 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 L’uso dell’**informatica nelle ricerche umanistiche** è oggigiorno sempre più importante e si presenta come un dibattito attuale e cruciale nell’**innovazione scientifica**. Si assiste infatti ogni anno alla crescita del numero di specialisti e ricercatori che decidono di impegnarsi nell’uso degli **strumenti digitali** nelle loro ricerche **linguistiche, letterarie, storiche, geografiche** ecc.
 Considerando l’estrema attualità di questi strumenti e l’ottima **integrazione** che dimostrano con le metodologie d’analisi tipiche delle discipline umanistiche, pare opportuno prevedere una formazione specifica per **dottorandi in italianistica** che non abbiano ancora avuto l’opportunità di conoscere le **potenzialità** dell’informatica e l’**impatto** che potrebbe avere sui loro progetti di tesi. 
 
-Si propone dunque una formazione in **Informatica per le Scienze Umane**, tale da poter orientare dei futuri ricercatori in discipline umanistiche verso i vantaggi dell’uso di software e linguaggi specifici nella loro **ricerca attuale** e nel loro **futuro professionale**. 
-
 La filosofia di questa scuola è mettere al centro il **testo**, secondo la filosofia tipica delle Digital Humanities: **Codificare, Analizzare e Diffondere**. 
 
-Lo scopo di questa scuola è di integrarsi con tutte le formazioni già fornite dalla comunità scientifica in modo da rappresentare un **orientamento alla disciplina** che spinga i partecipanti a voler approfondire le Digital Humanities. Questa prima edizione sperimentale della formazione vuole essere il lancio di un appuntamento annuale stabile, che contribuisca a diffondere l’Informatica per le Scienze Umane nella comunità scientifica italiana.
 In questi tre giorni si vogliono fornire ai partecipanti un **panorama bibliografico**, degli **strumenti pratici** e delle **indicazioni per la formazione**, da consultare in seguito, per approfondire le competenze utili ad ognuno, con una coscienza critica di cosa è necessario per fare cosa. ll **principale scopo** della formazione proposta è **domandare direttamente ai dottorandi cosa fanno, per suggerire cosa potrebbero fare**. 
 
 
@@ -58,26 +55,50 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 <dd>16-19 luglio 2019</dd>
 <dt>Luogo</dt>
 <dd>Università di Verona, Polo Santa Marta, via... [MAPPA LINK]</dd>
-<dt>Aule</dt>
-<dd>....</dd>
-<dt>Cena sociale</dt>
-<dd>Ristorante ...</dd>
 <dt>Locandina pubblicitaria</dt>
 <dd>Scaricala da <a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-locandina.jpg" target="_blank" title="Opens in new tab">qui</a> (318 KB)</dd>
 <dt>Social</dt>
 <dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag di Twitter (LINK)</dd>
 </dl>
 
+<!--
+<dt>Aule</dt>
+<dd>....</dd>
+<dt>Cena sociale</dt>
+<dd>Ristorante ...</dd>-->
+
 
 ## Requisiti
 
+
+
 ## Iscrizioni
 
+*Attenzione!* La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro febbraio 2019. I criteri per la valutazione sono la completezza del dossier e la varietà delle provenienze (saranno privilegiati candidati di diverse università rispetto a più candidati della stessa università); il progetto di tesi in sé non è sottoposto ad alcuna valutazione. La selezione è volta ad assicurare che il numero dei partecipanti non sia troppo elevato, a discapito della qualità della formazione.
+
+
+#### Come iscriversi
+
+Scarica il formulario per l'iscrizione [qui](docs/iscrizioni_form.rtf).
+
+La richiesta di iscrizione deve contenere un dossier con:
+
+* una breve presentazione della tesi di dottorato, che ne evidenzi obiettivi di ricerca e metodologia (max 600 parole);
+* una breve presentazione su come pensi usare le Digital Humanities nel tuo progetto di ricerca, corredata da tre domande (max 400 parole);
+* (opzionale) se già disponibile, un dataset che vorresti trattare con metodi digitali.
+
+
+Formulario e dossier devono essere inviati in un **unico file** all'indirizzo XXXXXXX. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
+
+#### Informazioni importanti
+
+Il **nome** del file deve essere `dossier_CognomeNome`, ad esempio `dossier_RossiMario`.
+
+L'eventuale **dataset** deve essere inviato a parte e può essere composto da file (NO `.pdf`; SI `.txt`, `.xml`, `.odt`, `.docx`, `.rtf`, `.ttl`, `.sql`, ecc.) contenenti testi, date, luoghi, immagini, ecc. Più il dataset è ordinato e strutturato, meno preparazione richiederà per essere trattato. Il dataset può essere composto da un unico file o da più file riuniti in una cartella `.zip`. Il file o la cartella `.zip` deve chiamarsi `dataset_CognomeNome`, ad esempio `dataset_VerdiMaria`.
 
 
 
-
-## Programma
+<!--## Programma
 
 ### Martedì 16 luglio
 
@@ -108,7 +129,7 @@ READ MORE... (link alla full page con maggiori dettagli su tutti i punti di cui 
 |:-----------|:----------------|:----------|:-----|
 |            |                 |           |      |
 
-<!--## Materiali
+## Materiali
 
 
 ### Segnala problemi 
