@@ -175,7 +175,7 @@ L'eventuale **dataset** deve essere inviato a parte e può essere composto da fi
 | 17:00-17:30| Pausa |
 | 17:30-18:30| Partenza partecipanti | 
 
-## Materiali
+<!--## Materiali
 
 
 ### Segnala problemi 
@@ -183,7 +183,7 @@ L'eventuale **dataset** deve essere inviato a parte e può essere composto da fi
 Per segnalare problemi o la presenza di refusi nei materiali didattici, crea un nuovo *issue* [QUI](https://github.com/CADottorato/materiali/issues).
 
 
-<!--## Approfondimento
+## Approfondimento
 
 * GitHub
 * Stilometria
