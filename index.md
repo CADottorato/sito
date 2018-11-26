@@ -17,13 +17,13 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 * [Informazioni organizzative](#informazioni-organizzative)
 * [Requisiti](#requisiti)
 * [Iscrizioni](#iscrizioni)
+* [Programma](#programma)
 * [Contattaci](#contattaci)
 * [Ringraziamenti](#ringraziamenti)
 
 <!--* [Materiali](#materiali)
 * [Approfondimento](#approfondimento)
-* [Feedback](#feedback)
-* [Programma](#programma) -->
+* [Feedback](#feedback) -->
 
 * * * 
 
@@ -35,7 +35,7 @@ Considerando l’estrema attualità di questi strumenti e l’ottima **integrazi
 
 La filosofia di questa scuola è mettere al centro il **testo**, secondo la filosofia tipica delle Digital Humanities: **Codificare, Analizzare e Diffondere**.
 
-In questi tre giorni si vogliono fornire ai partecipanti un **panorama bibliografico**, degli **strumenti pratici** e delle **indicazioni per la formazione**, da consultare in seguito, per approfondire le competenze utili ad ognuno, con una coscienza critica di cosa è necessario per fare cosa. ll **principale scopo** della formazione proposta è **domandare direttamente ai dottorandi cosa fanno, per suggerire cosa potrebbero fare**. 
+In questi quattro giorni si vogliono fornire ai partecipanti un **panorama bibliografico**, degli **strumenti pratici** e delle **indicazioni per la formazione**, da consultare in seguito, per approfondire le competenze utili ad ognuno, con una coscienza critica di cosa è necessario per fare cosa. ll **principale scopo** della formazione proposta è **domandare direttamente ai dottorandi cosa fanno, per suggerire cosa potrebbero fare**. 
 
 ### Pubblico
 
@@ -117,36 +117,63 @@ L'eventuale **dataset** deve essere inviato a parte e può essere composto da fi
 
 
 
-<!--## Programma
+## Programma
 
 ### Martedì 16 luglio
 
-| Ore          | Sessione          | Formatore  | Aula |
-|:-------------|:------------------|:-----------|:-----|
-| 09:00-10:00  | Stilometria       | S. Rebora  |      |
-| 11:00-11:30  | PAUSA CAFFE'      |            |      |
+| Ore          | Sessione          | 
+|:-------------|:------------------|
+| 10:00-10:30  | Accoglienza       |
+| 10:30-11:00  | Benvenuto, presentazione programma, divisione in gruppi |
+| 11:30-12:00  | Presentazione progetti di tesi, parte 1 |
+| 12:30-13:30  | Pranzo |
+| 13:30-15:00  | Presentazione progetti di tesi, parte 2 |
+| 15:00-15:30  | Pausa |
+| 15:30-17:00  | Keynote: Prof. Elena Pierazzo (UniGrenoble) |
+| 17:00-17:30  | Pausa |
+| 17:30-18:30  | Controllo computer portatili |
+| 18:30-...    | Aperitivo |
 
 
 ### Mercoledì 17 luglio - *Codificare*
 
 
-| Ore          | Sessione          | Formatore    | Aula |
-|:-------------|:----------------|:---------------|:-----|
-|              |                 |                |      |
+| Ore         | Sessione        |
+|:------------|:----------------|
+| 9:30-10:30  | Software OCR    |
+| 10:30-11:00 | Pausa |
+| 11:30-12:00 | Edizioni digitali in XML-TEI, parte 1 |
+| 12:30-13:30 | Pranzo |
+| 13:30-15:00 | Edizioni digitali in XML-TEI, parte 2 |
+| 15:00-15:30 | Pausa |
+| 15:30-17:00 | Lavoro pratico sulle tesi |
+| 17:00-17:30 | Pausa |
+| 17:30-18:30 | Sportello individuale (facoltativo) |
 
 
 ### Giovedì 18 luglio - *Analizzare*
 
-| Ore       | Sessione         | Formatore | Aula   |
-|:----------|:-----------------|:----------|:-------|
-|           |                  |           |        |
+| Ore        | Sessione          |
+|:-----------|:------------------|
+| 9:30-12:30 | Stilometria o NLP |
+| 12:30-13:30| Pranzo |
+| 13:30-17:00| Lavoro pratico sulla tesi |
+| 17:00-17:30| Pausa |
+| 17:30-18:30| Sportello individuale (facoltativo) |
+| 20:00-...  | Cena sociale |
 
 
 ### Venerdì 19 luglio - *Diffondere*
 
-| Ore        | Sessione        | Formatore | Aula |
-|:-----------|:----------------|:----------|:-----|
-|            |                 |           |      |
+| Ore        | Sessione        |
+|:-----------|:----------------|
+| 9:30-12:30 | Pubblicazione web o cartografia digitale |
+| 12:20-13:30| Pranzo |
+| 13:30-15:00| Lavoro pratico sulle test |
+| 15:00-15:30| Pausa |
+| 15:30-17:00| Keynote: Prof. Fabio Ciotti (Roma Tor Vergata) |
+| 17:00-17:30| Pausa |
+| 17:30-18:30| Partenza partecipanti | 
 
 ## Materiali
 
@@ -156,7 +183,7 @@ L'eventuale **dataset** deve essere inviato a parte e può essere composto da fi
 Per segnalare problemi o la presenza di refusi nei materiali didattici, crea un nuovo *issue* [QUI](https://github.com/CADottorato/materiali/issues).
 
 
-## Approfondimento
+<!--## Approfondimento
 
 * GitHub
 * Stilometria
