@@ -169,7 +169,7 @@ L'eventuale **dataset** deve essere inviato a parte e può essere composto da fi
 |:-----------|:----------------|
 | 9:30-12:30 | Pubblicazione web o cartografia digitale |
 | 12:20-13:30| Pranzo |
-| 13:30-15:00| Lavoro pratico sulle test |
+| 13:30-15:00| Lavoro pratico sulle tesi |
 | 15:00-15:30| Pausa |
 | 15:30-17:00| Keynote: Prof. Fabio Ciotti (Roma Tor Vergata) |
 | 17:00-17:30| Pausa |
@@ -202,7 +202,7 @@ Per qualsiasi dubbio, problema, domanda, scrivici al seguente indirizzo: **cadot
 
 ## Ringraziamenti
 
-Si ringraziano l'AIPI e l'AIUCD per il sostegno finanziario e il contributo alla summer school!
+Si ringraziano l'[AIPI](http://www.infoaipi.org/siena.asp) e l'[AIUCD](http://www.aiucd.it/) per il sostegno finanziario e il contributo alla summer school!
 
 <br /><br />
 ### [Torna al men&#249; &uarr;](#menu)
