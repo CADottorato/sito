@@ -73,7 +73,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 <dt>Luogo</dt>
 <dd>Università di Verona, <a href="http://comunicazione.univr.it/santamarta/index.html" target="_blank" title="Opens in new tab">Polo Santa Marta</a></dd>
 <dt>Locandina pubblicitaria</dt>
-<dd><a href="https://github.com/CADottorato/sito/blob/master/assets/img/CAD-Locandina.jpg" target="_blank" title="Opens in new tab">Download</a> (318 KB)</dd>
+<dd><a href="https://raw.githubusercontent.com/CADottorato/sito/master/assets/img/CAD-Locandina.jpg" target="_blank" title="Opens in new tab">Download</a> (318 KB)</dd>
 <dt>Social</dt>
 <dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag Twitter #cadottorato19</dd>
 </dl>
