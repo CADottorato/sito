@@ -98,7 +98,7 @@ Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcu
 
 #### Come iscriversi
 
-Scarica il formulario per l'iscrizione [qui](assets/iscrizioni_form.rtf).
+Scarica il formulario per l'iscrizione [qui](assets/iscrizioni_form.rtf). Per poter partecipare alla scuola è necessario inoltre pagare la quota associativa all'AIPI di 50€.
 
 La richiesta di iscrizione deve contenere un dossier con:
 
@@ -106,15 +106,17 @@ La richiesta di iscrizione deve contenere un dossier con:
 * una breve presentazione su come si pensa usare le Digital Humanities nel proprio progetto di ricerca, corredata da tre domande di ricerca (max 400 parole);
 * (opzionale) se già disponibile, un dataset che che si vuole trattare con metodi digitali.
 
-
 Formulario e dossier devono essere inviati in un **unico file** all'indirizzo **cadottorato@gmail.com**. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
 
-#### Informazioni importanti
-
+**INFORMAZIONI IMPORTANTI.**<br />
 Il **nome** del file deve essere `dossier_CognomeNome`, ad esempio `dossier_RossiMario`.
 
 L'eventuale **dataset** deve essere inviato a parte e può essere composto da file (NO `.pdf`; SI `.txt`, `.xml`, `.odt`, `.docx`, `.rtf`, `.ttl`, `.sql`, ecc.) contenenti testi, date, luoghi, immagini, ecc. Più il dataset è ordinato e strutturato, meno preparazione richiederà per essere trattato. Il dataset può essere composto da un unico file o da più file riuniti in una cartella `.zip`. Il file o la cartella `.zip` deve chiamarsi `dataset_CognomeNome`, ad esempio `dataset_VerdiMaria`.
 
+
+#### Borse di studio
+
+Saranno disponibili 8-10 borse di studio per sostenere le spese di viaggio. LINK ALLA CALL.
 
 
 ## Programma
