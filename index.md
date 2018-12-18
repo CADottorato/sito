@@ -54,7 +54,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 * **Dott.ssa Greta Franzini** – Università Cattolica del Sacro Cuore
 * **Dott. Simon Gabay** – Université de Neuchâtel
 * **Dott.ssa Elena Spadini** - Université de Lausanne
-* **Dott. Simone Rebora** – Università di Verona e Georg-August-Universität Göttingen
+* **Dott. Simone Rebora** – Università di Verona
 * **Dott. Stefano Bazzaco** - Università di Verona
 
 ### Comitato scientifico
