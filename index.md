@@ -17,6 +17,7 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 * [Informazioni organizzative](#informazioni-organizzative)
 * [Requisiti](#requisiti)
 * [Iscrizioni](#iscrizioni)
+* [Borse di studio](#borse-di-studio)
 * [Programma](#programma)
 * [Contattaci](#contattaci)
 * [Ringraziamenti](#ringraziamenti)
@@ -98,7 +99,7 @@ Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcu
 
 #### Come iscriversi
 
-Scarica il formulario per l'iscrizione **[QUI](assets/iscrizioni_form.rtf)**. Per poter partecipare alla scuola è necessario inoltre pagare la quota associativa all'AIPI di 50€.
+Scarica il formulario per l'iscrizione **[QUI](assets/iscrizioni_form.rtf)**. **Per poter partecipare alla scuola è necessario inoltre pagare la quota associativa all'AIPI di 50€**.
 
 La richiesta di iscrizione deve contenere un dossier con:
 
@@ -114,7 +115,7 @@ Il **nome** del file deve essere `dossier_CognomeNome`, ad esempio `dossier_Ross
 L'eventuale **dataset** deve essere inviato a parte e può essere composto da file (NO `.pdf`; SI `.txt`, `.xml`, `.odt`, `.docx`, `.rtf`, `.ttl`, `.sql`, ecc.) contenenti testi, date, luoghi, immagini, ecc. Più il dataset è ordinato e strutturato, meno preparazione richiederà per essere trattato. Il dataset può essere composto da un unico file o da più file riuniti in una cartella `.zip`. Il file o la cartella `.zip` deve chiamarsi `dataset_CognomeNome`, ad esempio `dataset_VerdiMaria`.
 
 
-#### Borse di studio
+## Borse di studio
 
 Saranno disponibili 8-10 borse di studio per sostenere le spese di viaggio. LINK ALLA CALL.
 
