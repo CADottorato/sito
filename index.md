@@ -99,7 +99,11 @@ Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcu
 
 #### Come iscriversi
 
-Scarica il formulario per l'iscrizione **[QUI](assets/iscrizioni_form.rtf)**. **Per poter partecipare alla scuola è necessario inoltre pagare la quota associativa all'AIPI di 50€**.
+Scarica il formulario per l'iscrizione **[QUI](assets/iscrizioni_form.rtf)**. **I partecipanti dovranno sottoscrivere l’iscrizione all’associazione AIPI per un costo di 50,00€**, che sarà valida fino al 2021 e permetterà quindi la partecipazione al convegno AIPI previsto nel 2020.
+
+
+
+**Per poter partecipare alla scuola è necessario inoltre pagare la quota associativa all'AIPI di 50€**.
 
 La richiesta di iscrizione deve contenere un dossier con:
 
