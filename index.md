@@ -98,7 +98,7 @@ Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcu
 
 #### Come iscriversi
 
-Scarica il formulario per l'iscrizione [qui](assets/iscrizioni_form.rtf). Per poter partecipare alla scuola è necessario inoltre pagare la quota associativa all'AIPI di 50€.
+Scarica il formulario per l'iscrizione **[QUI](assets/iscrizioni_form.rtf)**. Per poter partecipare alla scuola è necessario inoltre pagare la quota associativa all'AIPI di 50€.
 
 La richiesta di iscrizione deve contenere un dossier con:
 
