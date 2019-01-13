@@ -66,7 +66,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 	</tr>
     <tr>
     	<td>Elena Spadini</td>
-    	<td>AGGIUNGERE</td>
+    	<td><a href="https://www.unil.ch/crlr/home/menuinst/projets-de-recherche/gustave-roud-oeuvres-completes.html" target="_blank">Gustave Roud « Œuvres complètes »</a>, <a href="http://boccacciocommedia.unil.ch" target="_blank">La <i>Commedia</i> di Boccaccio</a></td>
     </tr>
     <tr>
     	<td>Simone Rebora</td>
