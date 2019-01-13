@@ -47,6 +47,35 @@ La scuola si rivolge ai **dottorandi di tutti i campi di studio legati all’ita
 I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université Grenoble Alpes) e del Prof. Fabio Ciotti (Università di Roma Tor Vergata, presidente AIUCD). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
 
 
+<table style="border: none">
+	<tr>
+		<th>Formatore</th>
+		<th>Progett* attual*</th>
+	</tr>
+    <tr>
+        <td>Giovanni Pietro Vitali</td>
+        <td><a href="http://www.ultimelettere.it/LastLetters/" target="_blank" title="Opens in new tab">Last Letters</a></td>
+    </tr>
+    <tr>
+    	<td>Greta Franzini</td>
+    	<td><a href="https://lila-erc.eu/" target="_blank" title="Opens in new tab">Linking Latin (LiLa)</a> e <a href="https://dig-ed-cat.acdh.oeaw.ac.at/" target="_blank" title="Opens in new tab">Catalogue of Digital Editions</a></td>
+	</tr>
+	<tr>
+    	<td>Simon Gabay</td>
+    	<td>AGGIUNGERE</td>
+	</tr>
+    <tr>
+    	<td>Elena Spadini</td>
+    	<td>AGGIUNGERE</td>
+    </tr>
+    <tr>
+    	<td>Simone Rebora</td>
+    	<td>AGGIUNGERE</td>
+    </tr>
+    
+</table>
+
+
 
 ### Comitato organizzativo 
 
