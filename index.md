@@ -62,7 +62,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 	</tr>
 	<tr>
     	<td>Simon Gabay</td>
-    	<td></td>
+    	<td><a href="https://editiones.hypotheses.org/" target="_blank" title="Opens in new tab">e-ditiones</a></td>
 	</tr>
     <tr>
     	<td>Elena Spadini</td>
