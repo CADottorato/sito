@@ -4,7 +4,7 @@ layout: default
 
 ![CAD-logo](assets/img/CAD-logo-long.png)
 
-# Codificare, Analizzare, Diffondere: <br />Le *Digital Humanities* nei progetti dottorali
+# Codificare, Analizzare, Diffondere: <br />Le *Digital Humanities* nei progetti dottorali e postdottorali
 
 ### Benvenuta/o!
 Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019. 
