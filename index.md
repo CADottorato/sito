@@ -115,16 +115,29 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 <dd>Ristorante ...</dd>-->
 
 
-## Requisiti
-
-Non sono richieste competenze computazionali. I partecipanti potranno usare i computer messi a disposizione dall'Università di Verona o lavorare sui propri. Nel secondo caso, andranno installati alcuni programmi prima della Summer School, e saranno fornite istruzioni per l'installazione. 
-Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in inglese.
-
 
 ## Iscrizioni
 
-*Attenzione!* La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro febbraio 2019. I criteri per la valutazione sono la completezza del dossier e la varietà delle provenienze (saranno privilegiati candidati di diverse università rispetto a più candidati della stessa università); il progetto di tesi in sé non è sottoposto ad alcuna valutazione. La selezione è volta ad assicurare che il numero dei partecipanti non superi il limite di 20, a discapito della qualità della formazione.
+#### Attenzione!
 
+La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro il 15 aprile 2019.
+
+La selezione è volta ad assicurare che il numero dei partecipanti non superi il limite stabilito, a discapito della qualità della formazione.
+
+I criteri per la valutazione sono:
+
+1. Ordine di arrivo della registrazione (40% del peso totale)
+2. Completezza del dossier (30%)
+3. Attinenza del progetto di tesi con le tematiche della Summer School (20%)
+4. Varietà delle provenienze (10%)
+
+Il progetto di tesi in sé non è sottoposto ad alcuna valutazione. 
+
+#### Requisiti
+
+Non sono richieste competenze computazionali. I partecipanti potranno usare i computer messi a disposizione dall'Università di Verona o lavorare sui propri. Nel secondo caso, andranno installati alcuni programmi prima della Summer School, e saranno fornite istruzioni per l'installazione. 
+
+Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in inglese.
 
 #### Come iscriversi
 
@@ -136,21 +149,26 @@ La richiesta di iscrizione deve contenere un dossier con:
 * una breve presentazione su come si pensa usare le Digital Humanities nel proprio progetto di ricerca, corredata da tre domande di ricerca (max 400 parole);
 * (opzionale) se già disponibile, un dataset che che si vuole trattare con metodi digitali.
 
-Formulario e dossier devono essere inviati in un **unico file** all'indirizzo **cadottorato@gmail.com**. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`.
-
-**INFORMAZIONI IMPORTANTI.**<br />
-Il **nome** del file deve essere `dossier_CognomeNome`, ad esempio `dossier_RossiMario`.
-
-L'eventuale **dataset** deve essere inviato a parte e può essere composto da file (NO `.pdf`; SI `.txt`, `.xml`, `.odt`, `.docx`, `.rtf`, `.ttl`, `.sql`, ecc.) contenenti testi, date, luoghi, immagini, ecc. Più il dataset è ordinato e strutturato, meno preparazione richiederà per essere trattato. Il dataset può essere composto da un unico file o da più file riuniti in una cartella `.zip`. Il file o la cartella `.zip` deve chiamarsi `dataset_CognomeNome`, ad esempio `dataset_VerdiMaria`.
+Formulario e dossier devono essere inviati in un **unico file** all'indirizzo **cadottorato@gmail.com**. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`. Il **nome** del file deve essere `dossier_CognomeNome`, ad esempio `dossier_RossiMaria`.
 
 
 ## Borse di studio
 
-Saranno disponibili 8-10 borse di studio per sostenere le spese di viaggio. LINK ALLA CALL.
+Il comitato organizzatore ha stanziato borse di studio, ognuna di 250,00 €, per i dottorandi che ne facciano espressa richiesta nel “Modulo di Candidatura”.
+
+Qualora il numero delle richieste fosse superiore alle borse messe a disposizione, si procederà a una selezione secondo una graduatoria in decimi stabilita con questi parametri:
+
+1. Ordine di arrivo della registrazione (40% del peso totale)
+2. Possibilità di avere accesso ad altri fondi (40%)
+3. Varietà delle provenienze (20%)
+
 
 
 ## Programma
 
+Coming soon ...
+
+<!--
 ### Martedì 16 luglio
 
 | Ore          | Sessione          | 
@@ -206,9 +224,11 @@ Saranno disponibili 8-10 borse di studio per sostenere le spese di viaggio. LINK
 | 15:30-17:00| Keynote: Prof. Fabio Ciotti (Roma Tor Vergata) |
 | 17:00-17:30| Pausa |
 | 17:30-18:30| Partenza partecipanti | 
+-->
+
+
 
 <!--## Materiali
-
 
 ### Segnala problemi 
 
@@ -224,7 +244,8 @@ Per segnalare problemi o la presenza di refusi nei materiali didattici, crea un 
 ## Feedback
 
 Come valuteresti la tua esperienza a CAD?
-Aiutaci a migliorare scrivendo a ....-->
+Aiutaci a migliorare scrivendo a ....
+-->
 
 
 ## Contattaci
