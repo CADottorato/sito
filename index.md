@@ -32,19 +32,19 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 ## Introduzione
 
 L’uso dell’**informatica nelle ricerche umanistiche** è oggigiorno sempre più importante e si presenta come un dibattito attuale e cruciale nell’**innovazione scientifica**. Si assiste infatti ogni anno alla crescita del numero di specialisti e ricercatori che decidono di impegnarsi nell’uso degli **strumenti digitali** nelle loro ricerche **linguistiche, letterarie, storiche, geografiche** ecc.
-Considerando l’estrema attualità di questi strumenti e l’ottima **integrazione** che dimostrano con le metodologie d’analisi tipiche delle discipline umanistiche, pare opportuno prevedere una formazione specifica per **dottorandi in italianistica** che non abbiano ancora avuto l’opportunità di conoscere le **potenzialità** dell’informatica e l’**impatto** che potrebbe avere sui loro progetti di tesi. 
+Considerando l’estrema attualità di questi strumenti e l’ottima **integrazione** che dimostrano con le metodologie d’analisi tipiche delle discipline umanistiche, pare opportuno prevedere una formazione specifica per **dottorandi e ricercatori in italianistica** che non abbiano ancora avuto l’opportunità di conoscere le **potenzialità** dell’informatica e l’**impatto** che potrebbe avere sui loro progetti di tesi. 
 
 La filosofia di questa scuola è mettere al centro il **testo**, secondo la filosofia tipica delle Digital Humanities: **Codificare, Analizzare e Diffondere**.
 
-In questi quattro giorni si vogliono fornire ai partecipanti un **panorama bibliografico**, degli **strumenti pratici** e delle **indicazioni per la formazione**, da consultare in seguito, per approfondire le competenze utili ad ognuno, con una coscienza critica di cosa è necessario per fare cosa. ll **principale scopo** della formazione proposta è **domandare direttamente ai dottorandi cosa fanno, per suggerire cosa potrebbero fare**. 
+In questi quattro giorni si vogliono fornire ai partecipanti un **panorama bibliografico**, degli **strumenti pratici** e delle **indicazioni per la formazione**, da consultare in seguito, per approfondire le competenze utili ad ognuno, con una coscienza critica di cosa è necessario per fare cosa. ll **principale scopo** della formazione proposta è **domandare direttamente ai partecipanti cosa fanno, per suggerire cosa potrebbero fare**. 
 
 ### Pubblico
 
-La scuola si rivolge ai **dottorandi di tutti i campi di studio legati all’italianistica**. Si considera un **numero massimo di 20 persone**, quattro per ogni formatore. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in lingua inglese.
+La scuola si rivolge **ai dottorandi e ai ricercatori di tutti i campi di studio legati all’italianistica**. Si considera un **numero massimo di 20 persone**, quattro per ogni formatore. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in lingua inglese.
 
 ### I formatori
 
-I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université Grenoble Alpes) e del Prof. Fabio Ciotti (Università di Roma Tor Vergata, presidente AIUCD). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
+I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université de Tours) e del Prof. Fabio Ciotti (Università di Roma Tor Vergata, presidente AIUCD). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
 
 
 <table style="border: none">
@@ -62,7 +62,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 	</tr>
 	<tr>
     	<td>Simon Gabay</td>
-    	<td>AGGIUNGERE</td>
+    	<td></td>
 	</tr>
     <tr>
     	<td>Elena Spadini</td>
@@ -70,7 +70,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
     </tr>
     <tr>
     	<td>Simone Rebora</td>
-    	<td>AGGIUNGERE</td>
+    	<td></td>
     </tr>
     
 </table>
@@ -90,7 +90,7 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 
 * **Prof. Anna Bognolo** - Università di Verona
 * **Prof. Adele Cipolla** - Università di Verona
-* **Prof. Elena Pierazzo** - Université Grenoble Alpes
+* **Prof. Elena Pierazzo** - Université de Tours
 * **Prof. Fabio Ciotti** - Università di Roma Tor Vergata
 
 
@@ -128,10 +128,10 @@ I criteri per la valutazione sono:
 
 1. Ordine di arrivo della registrazione (40% del peso totale)
 2. Completezza del dossier (30%)
-3. Attinenza del progetto di tesi con le tematiche della Summer School (20%)
+3. Attinenza del progetto di ricerca con le tematiche della Summer School (20%)
 4. Varietà delle provenienze (10%)
 
-Il progetto di tesi in sé non è sottoposto ad alcuna valutazione. 
+Il progetto di ricerca in sé non è sottoposto ad alcuna valutazione. 
 
 #### Requisiti
 
@@ -145,7 +145,7 @@ Scarica il formulario per l'iscrizione **[QUI](assets/iscrizioni_form.rtf)**. **
 
 La richiesta di iscrizione deve contenere un dossier con:
 
-* una breve presentazione della tesi di dottorato, che ne evidenzi obiettivi di ricerca e metodologia (max 600 parole);
+* una breve presentazione del progetto di ricerca, che ne evidenzi obiettivi e metodologia (max 600 parole);
 * una breve presentazione su come si pensa usare le Digital Humanities nel proprio progetto di ricerca, corredata da tre domande di ricerca (max 400 parole);
 * (opzionale) se già disponibile, un dataset che che si vuole trattare con metodi digitali.
 
@@ -154,7 +154,7 @@ Formulario e dossier devono essere inviati in un **unico file** all'indirizzo **
 
 ## Borse di studio
 
-Il comitato organizzatore ha stanziato borse di studio, ognuna di 250,00 €, per i dottorandi che ne facciano espressa richiesta nel “Modulo di Candidatura”.
+Il comitato organizzatore ha stanziato borse di studio, ognuna di 250,00 €, per i partecipanti che ne facciano espressa richiesta nel “Modulo di Candidatura”.
 
 Qualora il numero delle richieste fosse superiore alle borse messe a disposizione, si procederà a una selezione secondo una graduatoria in decimi stabilita con questi parametri:
 
