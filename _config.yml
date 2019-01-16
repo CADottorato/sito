@@ -1,6 +1,6 @@
 title: Ciao!
 logo: /assets/img/arena.jpeg
-description: CAD (Codificare, Analizzare, Diffondere) è una scuola dottorale di digital humanities finanziata dall'Associazione Internazionale Professori di Italiano (<a href="http://www.infoaipi.org/siena.asp" target="_blank">AIPI</a>) con il contributo dell'Associazione per l'Informatica Umanistica e la Cultura Digitale (<a href="http://www.aiucd.it/" target="_blank">AIUCD</a>).
+description: CAD (Codificare, Analizzare, Diffondere) è una scuola di digital humanities finanziata dall'Associazione Internazionale Professori di Italiano (<a href="http://www.infoaipi.org/siena.asp" target="_blank">AIPI</a>) con il contributo dell'Associazione per l'Informatica Umanistica e la Cultura Digitale (<a href="http://www.aiucd.it/" target="_blank">AIUCD</a>).
 show_downloads: false
 #google_analytics:
 theme: jekyll-theme-minimal
