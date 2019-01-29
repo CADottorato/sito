@@ -31,20 +31,22 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 
 ## Introduzione
 
-L’uso dell’**informatica nelle ricerche umanistiche** è oggigiorno sempre più importante e si presenta come un dibattito attuale e cruciale nell’**innovazione scientifica**. Si assiste infatti ogni anno alla crescita del numero di specialisti e ricercatori che decidono di impegnarsi nell’uso degli **strumenti digitali** nelle loro ricerche **linguistiche, letterarie, storiche, geografiche** ecc.
-Considerando l’estrema attualità di questi strumenti e l’ottima **integrazione** che dimostrano con le metodologie d’analisi tipiche delle discipline umanistiche, pare opportuno prevedere una formazione specifica per **dottorandi e ricercatori in italianistica** che non abbiano ancora avuto l’opportunità di conoscere le **potenzialità** dell’informatica e l’**impatto** che potrebbe avere sui loro progetti di tesi. 
+La scuola estiva è dedicata alle **Digital Humanities** nei progetti di ricerca di **dottorandi, ricercatori e professori**. L'uso dell'informatica nelle scienze umanistiche è oggi sempre più diffuso ed è al centro di dibattiti che interessano l'**università** quanto l'intero mondo dell'**istruzione e della cultura**. La scuola estiva offre una **formazione di base** per coloro che non hanno esperienze di informatica umanistica o che vogliono **approfondire** il suo impatto nella ricerca linguistica, letteraria, storica, geografica, filosofica, etc. Non sono richieste conoscenze previe.
 
-La filosofia di questa scuola è mettere al centro il **testo**, secondo la filosofia tipica delle Digital Humanities: **Codificare, Analizzare e Diffondere**.
+La scuola si sviluppa intorno ai **testi**, seguendo un percorso tipico nelle Digital Humanities: **Codificare, Analizzare e Diffondere**.
 
-In questi quattro giorni si vogliono fornire ai partecipanti un **panorama bibliografico**, degli **strumenti pratici** e delle **indicazioni per la formazione**, da consultare in seguito, per approfondire le competenze utili ad ognuno, con una coscienza critica di cosa è necessario per fare cosa. ll **principale scopo** della formazione proposta è **domandare direttamente ai partecipanti cosa fanno, per suggerire cosa potrebbero fare**. 
+Durante i quattro giorni della scuola si vogliono fornire ai partecipanti degli **strumenti** che permettano di valutare l'eventuale efficacia dell'applicazione dell'informatica per il **proprio progetto di ricerca** e che costituiscano una base per poter proseguire la formazione e la ricerca in quest'ambito con **coscienza critica**. La scuola darà ampio spazio all'analisi dei singoli progetti di ricerca: **partecipanti e formatori lavoreranno insieme** per identificare gli approcci digitali e computazionali più idonei per ogni caso.
+
 
 ### Pubblico
 
-La scuola si rivolge **ai dottorandi e ai ricercatori di tutti i campi di studio legati all’italianistica**. Si considera un **numero massimo di 20 persone**, quattro per ogni formatore. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in lingua inglese.
+La scuola si rivolge **ai ricercatori di tutti i campi di studio legati all’italianistica**. Il numero dei partecipanti è limitato per garantire la qualità della formazione. 
 
 ### I formatori
 
-I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université de Tours) e del Prof. Fabio Ciotti (Università di Roma Tor Vergata, presidente AIUCD). Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, li renderanno capaci di seguire gruppi con progetti molto differenti, declinando gli strumenti digitali all’interno delle metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
+I formatori sono giovani ricercatori di livello post-doc, specialisti in studi linguistico-letterari di diversi periodi: studi classici, medievali, moderni e contemporanei. È prevista inoltre la partecipazione della Prof.ssa Elena Pierazzo (Université de Tours) e del Prof. Fabio Ciotti (Università di Roma Tor Vergata).
+
+Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica, permetteranno di seguire gruppi con progetti differenti, declinando gli strumenti digitali e le metodologie d’analisi specifiche e necessarie per i testi di ogni periodo.
 
 
 <table style="border: none">
@@ -102,8 +104,8 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 <dd>16-19 luglio 2019</dd>
 <dt>Luogo</dt>
 <dd>Università di Verona, <a href="http://comunicazione.univr.it/santamarta/index.html" target="_blank" title="Opens in new tab">Polo Santa Marta</a></dd>
-<dt>Locandina pubblicitaria</dt>
-<dd><a href="https://raw.githubusercontent.com/CADottorato/sito/master/assets/img/CAD-Locandina.jpg" target="_blank" title="Opens in new tab">Download</a> (318 KB)</dd>
+<!--<dt>Locandina pubblicitaria</dt>
+<dd><a href="https://raw.githubusercontent.com/CADottorato/sito/master/assets/img/CAD-Locandina.jpg" target="_blank" title="Opens in new tab">Download</a> (318 KB)</dd>-->
 <dt>Social</dt>
 <dd>Segui la nostra <a href="https://bit.ly/2P0CikQ" target="_blank" title="Opens in new tab">pagina Facebook</a> e/o l'hashtag Twitter #cadottorato19</dd>
 </dl>
@@ -120,18 +122,18 @@ I formatori sono giovani ricercatori di livello post-doc, specialisti in studi l
 
 #### Attenzione!
 
-La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro il 15 aprile 2019.
+La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro il 15 aprile 2019. 
 
 La selezione è volta ad assicurare che il numero dei partecipanti non superi il limite stabilito, a discapito della qualità della formazione.
 
 I criteri per la valutazione sono:
 
-1. Ordine di arrivo della registrazione (40% del peso totale)
+1. Ordine di arrivo della registrazione (30% del peso totale)
 2. Completezza del dossier (30%)
-3. Attinenza del progetto di ricerca con le tematiche della Summer School (20%)
+3. Attinenza del progetto di ricerca con le tematiche della Summer School (30%)
 4. Varietà delle provenienze (10%)
 
-Il progetto di ricerca in sé non è sottoposto ad alcuna valutazione. 
+Il progetto di ricerca in sé non è sottoposto ad alcuna valutazione.
 
 #### Requisiti
 
@@ -149,7 +151,7 @@ La richiesta di iscrizione deve contenere un dossier con:
 * una breve presentazione su come si pensa usare le Digital Humanities nel proprio progetto di ricerca, corredata da tre domande di ricerca (max 400 parole);
 * (opzionale) se già disponibile, un dataset che che si vuole trattare con metodi digitali.
 
-Formulario e dossier devono essere inviati in un **unico file** all'indirizzo **cadottorato@gmail.com**. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`. Il **nome** del file deve essere `dossier_CognomeNome`, ad esempio `dossier_RossiMaria`.
+Formulario e dossier devono essere inviati in un **unico file** all'indirizzo **cadottorato@gmail.com**, entro il **15 marzo 2019**. Formati accettati sono `.rtf`, `.odt`, `.docx`, `.pdf`. Il **nome** del file deve essere `dossier_CognomeNome`, ad esempio `dossier_RossiMaria`.
 
 
 ## Borse di studio
@@ -158,15 +160,23 @@ Il comitato organizzatore ha stanziato borse di studio, ognuna di 250,00 €, pe
 
 Qualora il numero delle richieste fosse superiore alle borse messe a disposizione, si procederà a una selezione secondo una graduatoria in decimi stabilita con questi parametri:
 
-1. Ordine di arrivo della registrazione (40% del peso totale)
-2. Possibilità di avere accesso ad altri fondi (40%)
-3. Varietà delle provenienze (20%)
+1. Ordine di arrivo della registrazione (30% del peso totale)
+2. Possibilità di avere accesso ad altri fondi (30%)
+3. Completezza della richiesta (20%)
+4. Varietà delle provenienze (20%)
 
 
 
 ## Programma
 
-Coming soon ...
+Il programma si articola su quattro giorni e prevede l’inizio delle attività il **mercoledì alle 10:30** e la fine il **sabato alle 17:00**.
+
+Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
+
+- Durante i **corsi** saranno presentati strumenti e tecnologie, tramite lezioni frontali e esercizi pratici. I corsi forniranno introduzioni e approfondimenti su XML/TEI, stilometria, trattamento automatico delle lingue, cartografia digitale, pubblicazione web.
+- I **laboratori** prevedono la divisione in gruppi e il lavoro pratico sui progetti di ricerca.
+
+Le due giornate centrali si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
 
 <!--
 ### Martedì 16 luglio
