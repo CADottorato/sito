@@ -159,11 +159,9 @@ Il comitato organizzatore ha stanziato borse di studio, ognuna di 250,00 €, pe
 
 Qualora il numero delle richieste fosse superiore alle borse messe a disposizione, si procederà a una selezione secondo una graduatoria in decimi stabilita con questi parametri:
 
-1. Ordine di arrivo della registrazione (30% del peso totale)
-2. Possibilità di avere accesso ad altri fondi (30%)
-3. Completezza della richiesta (20%)
-4. Varietà delle provenienze (20%)
-
+1. Ordine di arrivo della registrazione (40% del peso totale)
+2. Possibilità di avere accesso ad altri fondi (40%)
+3. Varietà delle provenienze (20%)
 
 
 ## Programma
