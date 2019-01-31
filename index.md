@@ -142,7 +142,7 @@ Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcu
 
 #### Come iscriversi
 
-Scarica il formulario per l'iscrizione **[QUI](assets/iscrizioni_form.rtf)**. **I partecipanti dovranno sottoscrivere l’iscrizione all’associazione AIPI per un costo di 50,00€**, che sarà valida fino al 2021 e permetterà quindi la partecipazione al convegno AIPI previsto nel 2020.
+Scarica il formulario per l'iscrizione **[QUI (.rtf)](assets/iscrizioni_form.rtf)** o **[QUI (.docx)](assets/iscrizioni_form.docx)**. **I partecipanti dovranno sottoscrivere l’iscrizione all’associazione AIPI per un costo di 50,00€**, che sarà valida fino al 2021 e permetterà quindi la partecipazione al convegno AIPI previsto nel 2020.
 
 La richiesta di iscrizione deve contenere un dossier con:
 
