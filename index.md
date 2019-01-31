@@ -166,7 +166,7 @@ Qualora il numero delle richieste fosse superiore alle borse messe a disposizion
 
 ## Programma
 
-Il programma si articola su quattro giorni e prevede l’inizio delle attività il **mercoledì alle 10:30** e la fine il **sabato alle 17:00**.
+Il programma si articola su quattro giorni e prevede l’inizio delle attività il **martedì alle 10:30** e la fine il **venerdì alle 17:00**.
 
 Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
 
