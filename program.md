@@ -18,7 +18,7 @@ Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
 
 Le prime due giornate si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
 
-<br/>
+<br/><br/>
 ### Martedì 16 luglio
 
 | Ore          | Sessione          |
