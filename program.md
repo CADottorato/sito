@@ -6,17 +6,17 @@ layout: default
 
 # Codificare, Analizzare, Diffondere: <br />Le *Digital Humanities* nei progetti di ricerca
 
-
+<br/>
 ## Programma
 
 Il programma si articola su quattro giorni e prevede l’inizio delle attività il **martedì alle 10:30** e la fine il **venerdì alle 17:00**.
 
 Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
 
-- Durante i **corsi** saranno presentati strumenti e tecnologie, tramite lezioni frontali e esercizi pratici. Durante i primi due gioni, i partecipanti seguiranno i corsi *Dalla carta allo schermo* e *Codifica dei testi*. Gli ultimi due giorni i partecipanti saranno divisi in due gruppi e seguiranno *Analisi semantica e di stile* oppure *Trattamento automatico del linguaggio*; e *Cartografia e network* oppure *Diffusione della ricerca online*. Una descrizione dettagliata dei corsi è disponibile qui di seguito.
+- Durante i **corsi** saranno presentati strumenti e tecnologie, tramite lezioni frontali e esercizi pratici. I primi due giorni i partecipanti seguiranno i corsi *Dalla carta allo schermo* e *Codifica dei testi*. Gli ultimi due giorni i partecipanti saranno divisi in due gruppi e seguiranno *Analisi semantica e di stile* oppure *Trattamento automatico del linguaggio*; e *Cartografia e network* oppure *Diffusione della ricerca online*. Una descrizione dettagliata dei corsi è disponibile qui di seguito.
 - I **laboratori** prevedono l'approfondimento di quanto imparato durante i corsi e il lavoro pratico sui progetti di ricerca.
 
-Le prima due giornate si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
+Le prime due giornate si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
 
 
 ### Martedì 16 luglio
@@ -78,9 +78,8 @@ Le prima due giornate si chiudono con uno **sportello aperto**, individuale e fa
 | 16:30-17:00 | Feedback e saluti |
 
 
-***
 
-
+<br/>
 ## I corsi nel dettaglio
 
 ### Dalla carta allo schermo (Stefano Bazzaco)
@@ -97,7 +96,7 @@ Nello specifico, il corso si divide in tre sezioni. In un primo momento, saranno
 Il corso propone un'introduzione alla codifica TEI (Text Encoding Initiative), uno dei più importanti standard del mondo dell'informatica umanistica (Digital Humanities). Durante il corso, i partecipanti impareranno a trasformare un testo in una base dati, interrogabile e pubblicabile in diversi formati (LaTeX, HTML, etc.). La scoperta dell'XML-TEI sarà anche l'occasione di conoscere ed adottare le norme per lavorare con il digitale, necessarie per rendere i propri dati riutilizzabili da altri ricercatori, interoperabili con altri sistemi e persistenti sul lungo termine.
 Dopo un'introduzione teorica ai principi dell'XML e al vocabolario della TEI, passeremo a degli esercizi che toccano i principali problemi sollevati dalla codifica, come la struttura fisica e logica del documento (pagine, titolo, capitoli, paragrafi, etc.) o le entità nominali (nomi di persone e di luoghi). Gli esercizi saranno l'occasione di presentare alcuni degli strumenti disponibili per facilitare il lavoro con la TEI, come il programma oXygen e l'applicazione web Roma.
 
-**Simon** è post-doc e insegna le Digital Humanities all'Università di Neuchâtel. Durante i **laboratori** con lui potrete lavorare su codifica di forme testuali specifiche (corrispondenze, teatro, etc.) e des casi filologici complessi (testimoni multipli, annotazione linguistica), integrazione di TEI con il trattamento automatico del linguaggio, OCR, stilometria e cartografia.
+**Simon** è ricercatore post-doc e insegna le Digital Humanities all'Università di Neuchâtel. Durante i **laboratori** con lui potrete lavorare su codifica di forme testuali specifiche (corrispondenze, teatro, etc.) e des casi filologici complessi (testimoni multipli, annotazione linguistica), integrazione di TEI con il trattamento automatico del linguaggio, OCR, stilometria e cartografia.
 
 
 <br/>
@@ -107,7 +106,7 @@ Il corso si concentra su due aree principali dell’analisi del testo con metodi
 Sotto il nome di “stilometria”, si raccolgono una serie di approcci che hanno come fine ultimo quello di distinguere e misurare lo stile autoriale. Metodi statistici come la “Delta distance” vengono frequentemente utilizzati per l’attribuzione di testi anonimi, mentre la “keyness analysis” è adottata per individuare le marche lessicali che caratterizzano la scrittura di uno o più autori. Dopo aver passato in rassegna sinteticamente i fondamenti teorico-matematici per ognuno di questi metodi, verranno mostrate le molteplici modalità di visualizzazione dei risultati (come i dendrogrammi e gli alberi di consenso), che rendono infine possibile una “lettura da lontano” (distant reading) dei più vasti corpora testuali.
 Nella più estesa area dell’analisi semantica, a seconda delle esigenze dei partecipanti, verranno presentati: algoritmi di “sentiment analysis”, che quantificano gli aspetti emotivi del testo con il fine di visualizzarne la struttura narrativa; algoritmi per la classificazione delle aree semantiche, che misurano le dominanti tematiche del testo; algoritmi di “topic modeling” e di semantica distribuzionale, che estraggono i temi e le relazioni concettuali direttamente dalla distribuzione delle parole in ampie collezioni testuali. Di tutti questi approcci saranno mostrate alcune semplici applicazioni negli studi letterari, sottolineando anche rischi e problematicità nel loro uso indiscriminato.
 
-**Simone** è post-doc all'Università di Verona. Durante i **laboratori** con lui potrete lavorare su stilometria (stylo, JGAAP, pyDelta, pyZeta e quanteda), sentiment analysis (syuzhet, Stanford SA), classificazione semantica (LIWC, SEANCE), topic modeling (Gensim, LDA, Mallet) e semantica distribuzionale (word2vec, doc2vec).
+**Simone** è ricercatore post-doc all'Università di Verona. Durante i **laboratori** con lui potrete lavorare su stilometria (stylo, JGAAP, pyDelta, pyZeta e quanteda), sentiment analysis (syuzhet, Stanford SA), classificazione semantica (LIWC, SEANCE), topic modeling (Gensim, LDA, Mallet) e semantica distribuzionale (word2vec, doc2vec).
 
 
 
@@ -116,7 +115,7 @@ Nella più estesa area dell’analisi semantica, a seconda delle esigenze dei pa
 
 Il corso è diviso in due parti: la prima si concentra sull’uso della linea di comando (conosciuta anche come “Command Line” o “Terminal”) per la gestione di file e la manipolazione di testi o corpora (i.e., pulizia e formattazione con Regular Expressions), mentre la seconda è volta all’apprendimento dello strumento TreeTagger per il PoS-tagging (assegnazione automatica di parti del discorso) e la lemmatizzazione di testi in lingua italiana.
 
-**Greta** è ricercatrice nel progetto ERC *Linking Latin* all'Università Cattolica del Sacro Cuore. Durante i **laboratori** con lei potrete lavorare su linea di comando (e.g., pulizia/manipolazione di testi con Regular Expressions), trattamento automatico del linguaggio (e.g., PoS-tagging e lemmatizzazione), base dati relazionali (e.g., MySQL), versioning con GitHub/GitLab, pubblicazione web (HTML, CSS, Bootstrap) e codifica dei testi in TEI.
+**Greta** è ricercatrice post-doc nel progetto ERC *Linking Latin* all'Università Cattolica del Sacro Cuore. Durante i **laboratori** con lei potrete lavorare su linea di comando (e.g., pulizia/manipolazione di testi con Regular Expressions), trattamento automatico del linguaggio (e.g., PoS-tagging e lemmatizzazione), base dati relazionali (e.g., MySQL), versioning con GitHub/GitLab, pubblicazione web (HTML, CSS, Bootstrap) e codifica dei testi in TEI.
 
 
 <br/>
