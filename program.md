@@ -13,10 +13,10 @@ Il programma si articola su quattro giorni e prevede l’inizio delle attività 
 
 Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
 
-- Durante i **corsi** saranno presentati strumenti e tecnologie, tramite lezioni frontali e esercizi pratici. I corsi forniranno introduzioni e approfondimenti su tecniche di OCR, XML/TEI, analisi semantica e di stile, trattamento automatico del linguaggio, cartografia e network, diffusione della ricerca online. Gli ultimi due giorni i partecipanti saranno divisi in due gruppi e seguiranno analisi semantica e di stile oppure trattamento automatico del linguaggio; e cartografia e network oppure diffusione della ricerca online. Una descrizione dettagliata dei corsi è disponibile sotto.
+- Durante i **corsi** saranno presentati strumenti e tecnologie, tramite lezioni frontali e esercizi pratici. Durante i primi due gioni, i partecipanti seguiranno i corsi *Dalla carta allo schermo* e *Codifica dei testi*. Gli ultimi due giorni i partecipanti saranno divisi in due gruppi e seguiranno *Analisi semantica e di stile* oppure *Trattamento automatico del linguaggio*; e *Cartografia e network* oppure *Diffusione della ricerca online*. Una descrizione dettagliata dei corsi è disponibile qui di seguito.
 - I **laboratori** prevedono l'approfondimento di quanto imparato durante i corsi e il lavoro pratico sui progetti di ricerca.
 
-Le due giornate centrali si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
+Le prima due giornate si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
 
 
 ### Martedì 16 luglio
@@ -29,10 +29,10 @@ Le due giornate centrali si chiudono con uno **sportello aperto**, individuale e
 | 13:00-14:30 | Pranzo |
 | 13:30-15:30 | Presentazione progetti di ricerca |
 | 15:30-16:00 | Pausa caffé |
-| 16:00-17:00 | CORSO: Dalla carta allo schermo + divisione gruppi |
+| 16:00-17:00 | CORSO: Dalla carta allo schermo |
 | 17:00-17:15 | Divisione in gruppi |
 | 17:15-18h15 | Keynote: Prof. Elena Pierazzo (Université de Tours) |
-| 18:14-19:00 | Controllo computer portatili |
+| 18:14-19:00 | Controllo computer portatili e sportello individuale (facoltativo) |
 | 19:00-...   | Aperitivo |
 
 
@@ -70,13 +70,15 @@ Le due giornate centrali si chiudono con uno **sportello aperto**, individuale e
 | Ore        | Sessione          |
 |:-----------|:------------------|
 | 9:30-11:00  | CORSO: Cartografia e network / Diffondere la ricerca online |
-| 11:00-11:30 | Pausa caffé o sbrisolone portate da noi | 
+| 11:00-11:30 | Pausa caffé | 
 | 11:30-13:00 | CORSO: Cartografia e network / Diffondere la ricerca online |
 | 13:00-14:30 | Pranzo |
 | 14:30-16:00 | LABORATORI |
-| 16:00-16:30 | Pausa caffé o sbrisolone portate da noi |
+| 16:00-16:30 | Pausa caffé |
 | 16:30-17:00 | Feedback e saluti |
 
+
+***
 
 
 ## I corsi nel dettaglio
@@ -88,6 +90,7 @@ Nello specifico, il corso si divide in tre sezioni. In un primo momento, saranno
 
 **Stefano** è assegnista di ricerca presso il Dipartimento di Letterature, Lingue e Linguistica dell’Università di Verona. Durante i **laboratori** con lui potrete lavorare su OCR, sulla codifica dei testi in TEI, sulla stilometria.
 
+<br/>
 
 ### Codifica dei testi (Simon Gabay)
 
@@ -97,6 +100,7 @@ Dopo un'introduzione teorica ai principi dell'XML e al vocabolario della TEI, pa
 **Simon** è post-doc e insegna le Digital Humanities all'Università di Neuchâtel. Durante i **laboratori** con lui potrete lavorare su codifica di forme testuali specifiche (corrispondenze, teatro, etc.) e des casi filologici complessi (testimoni multipli, annotazione linguistica), integrazione di TEI con il trattamento automatico del linguaggio, OCR, stilometria e cartografia.
 
 
+<br/>
 ### Analisi semantica e di stile (Simone Rebora)
 
 Il corso si concentra su due aree principali dell’analisi del testo con metodi computazionali.
@@ -107,6 +111,7 @@ Nella più estesa area dell’analisi semantica, a seconda delle esigenze dei pa
 
 
 
+<br/>
 ### Trattamento Automatico del Linguaggio (Greta Franzini)
 
 Il corso è diviso in due parti: la prima si concentra sull’uso della linea di comando (conosciuta anche come “Command Line” o “Terminal”) per la gestione di file e la manipolazione di testi o corpora (i.e., pulizia e formattazione con Regular Expressions), mentre la seconda è volta all’apprendimento dello strumento TreeTagger per il PoS-tagging (assegnazione automatica di parti del discorso) e la lemmatizzazione di testi in lingua italiana.
@@ -114,6 +119,7 @@ Il corso è diviso in due parti: la prima si concentra sull’uso della linea di
 **Greta** è ricercatrice nel progetto ERC *Linking Latin* all'Università Cattolica del Sacro Cuore. Durante i **laboratori** con lei potrete lavorare su linea di comando (e.g., pulizia/manipolazione di testi con Regular Expressions), trattamento automatico del linguaggio (e.g., PoS-tagging e lemmatizzazione), base dati relazionali (e.g., MySQL), versioning con GitHub/GitLab, pubblicazione web (HTML, CSS, Bootstrap) e codifica dei testi in TEI.
 
 
+<br/>
 ### Cartografia e network (Giovanni Pietro Vitali)
 
 Il corso di Cartografia e network è diviso in due moduli di un’ora e mezza ciascuno. L’obiettivo del corso è quello di far acquisire ai partecipanti gli strumenti tecnici basici per la visualizzazione di dati georeferenziati su mappe online e di dati relazionabili all’interno di network personalizzabili.
@@ -130,6 +136,7 @@ Al termine del corso ogni partecipante sarà in grado di mettere in rete una car
 **Giovanni** si occupa di lingua e letteratura contemporanea ed è Marie Skłodowska Curie Fellow a University College Cork. Durante i **laboratori** con lui potrete lavorare sul mapping, l’analisi dei network, la stilometria e il trattamento automatico del linguaggio.
 
 
+<br/>
 ### Diffondere la ricerca online (Elena Spadini)
 
 Il corso si concentra sulle tecnologie del web, in particolare la codifica HTML e i fogli di stile CSS. Avere familiarità con questi linguaggi permette di creare un sito web, ma anche di gestire la pubblicazione di dati in altri linguaggi (ad esempio, in TEI) e di controllare al meglio la pubblicazione tramite piattaforme come Wordpress o Omeka. Oltre alla creazione di siti e blog scientifici, si passeranno in rassegna altre modalità di diffusione della ricerca e di collaborazione online: i depositi istituzionali e internazionali (ad esempio, Zenodo), l’utilizzo di identificanti perenni (ad esempio, DOI), i software per il versioning (git) e le piattaforme per la gestione del code source (come Github e Gitlab). Le questioni legate all’Open Science (tra cui l’Open Access) e alle licenze per dati e pubblicazioni saranno brevemente trattate.
