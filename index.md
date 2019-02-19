@@ -71,7 +71,11 @@ Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica,
     </tr>
     <tr>
     	<td>Simone Rebora</td>
-    	<td></td>
+    	<td><a href=" https://github.com/SimoneRebora/" title="Opens in new tab" target="_blank">Lista di progetti su GitHub</a></td>
+    </tr>
+    <tr>
+    	<td>Stefano Bazzaco</td>
+    	<td><a href="http://www.mambrino.it/" title="Opens in new tab" target="_blank">Progetto Mambrino</a></td>
     </tr>
     
 </table>
@@ -121,7 +125,7 @@ Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica,
 
 #### Attenzione!
 
-La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro il 15 aprile 2019. 
+La registrazione non è una conferma di iscrizione. I dossier saranno valutati e tutti coloro che hanno completato la registrazione riceveranno una conferma di accettazione o ricusa entro il 15 aprile 2019. **Se accettati, i partecipanti dovranno sottoscrivere l’iscrizione all’associazione AIPI per un costo di 50,00 €**, che sarà valida fino al 2021 e permetterà quindi la partecipazione al convegno AIPI previsto nel 2020.
 
 La selezione è volta ad assicurare che il numero dei partecipanti non superi il limite stabilito, a discapito della qualità della formazione.
 
@@ -136,13 +140,13 @@ Il progetto di ricerca in sé non è sottoposto ad alcuna valutazione.
 
 #### Requisiti
 
-Non sono richieste competenze computazionali. I partecipanti potranno usare i computer messi a disposizione dall'Università di Verona o lavorare sui propri. Nel secondo caso, andranno installati alcuni programmi prima della Summer School, e saranno fornite istruzioni per l'installazione. 
+**Non sono richieste competenze computazionali né un dottorato**. I partecipanti potranno usare i computer messi a disposizione dall'Università di Verona o lavorare sui propri. Nel secondo caso, andranno installati alcuni programmi prima della Summer School, e saranno fornite istruzioni per l'installazione. 
 
 Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in inglese.
 
 #### Come iscriversi
 
-Scarica il formulario per l'iscrizione **[QUI (.rtf)](assets/iscrizioni_form.rtf)** o **[QUI (.docx)](assets/iscrizioni_form.docx)**. **I partecipanti dovranno sottoscrivere l’iscrizione all’associazione AIPI per un costo di 50,00€**, che sarà valida fino al 2021 e permetterà quindi la partecipazione al convegno AIPI previsto nel 2020.
+Scarica il formulario per l'iscrizione **[QUI (.rtf)](assets/iscrizioni_form.rtf)** o **[QUI (.docx)](assets/iscrizioni_form.docx)**.
 
 La richiesta di iscrizione deve contenere un dossier con:
 
@@ -160,7 +164,7 @@ Il comitato organizzatore ha stanziato borse di studio, ognuna di 250,00 €, pe
 Qualora il numero delle richieste fosse superiore alle borse messe a disposizione, si procederà a una selezione secondo una graduatoria in decimi stabilita con questi parametri:
 
 1. Ordine di arrivo della registrazione (40% del peso totale)
-2. Possibilità di avere accesso ad altri fondi (40%)
+2. Possibilità di avere accesso ad altri fondi (40%) [ovvero, la precedenza sulle borse verrà data a coloro che non hanno la possibilità di attingere a fondi istituzionali propri, e.g., fondi per il training di dottorandi]
 3. Varietà delle provenienze (20%)
 
 
@@ -175,63 +179,6 @@ Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
 
 Le due giornate centrali si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
 
-<!--
-### Martedì 16 luglio
-
-| Ore          | Sessione          | 
-|:-------------|:------------------|
-| 10:00-10:30  | Accoglienza       |
-| 10:30-11:00  | Benvenuto, presentazione programma, divisione in gruppi |
-| 11:30-12:00  | Presentazione progetti di tesi, parte 1 |
-| 12:30-13:30  | Pranzo |
-| 13:30-15:00  | Presentazione progetti di tesi, parte 2 |
-| 15:00-15:30  | Pausa |
-| 15:30-17:00  | Keynote: Prof. Elena Pierazzo (UniGrenoble) |
-| 17:00-17:30  | Pausa |
-| 17:30-18:30  | Controllo computer portatili |
-| 18:30-...    | Aperitivo |
-
-
-### Mercoledì 17 luglio - *Codificare*
-
-
-| Ore         | Sessione        |
-|:------------|:----------------|
-| 9:30-10:30  | Software OCR    |
-| 10:30-11:00 | Pausa |
-| 11:30-12:00 | Edizioni digitali in XML-TEI, parte 1 |
-| 12:30-13:30 | Pranzo |
-| 13:30-15:00 | Edizioni digitali in XML-TEI, parte 2 |
-| 15:00-15:30 | Pausa |
-| 15:30-17:00 | Lavoro pratico sulle tesi |
-| 17:00-17:30 | Pausa |
-| 17:30-18:30 | Sportello individuale (facoltativo) |
-
-
-### Giovedì 18 luglio - *Analizzare*
-
-| Ore        | Sessione          |
-|:-----------|:------------------|
-| 9:30-12:30 | Stilometria o NLP |
-| 12:30-13:30| Pranzo |
-| 13:30-17:00| Lavoro pratico sulla tesi |
-| 17:00-17:30| Pausa |
-| 17:30-18:30| Sportello individuale (facoltativo) |
-| 20:00-...  | Cena sociale |
-
-
-### Venerdì 19 luglio - *Diffondere*
-
-| Ore        | Sessione        |
-|:-----------|:----------------|
-| 9:30-12:30 | Pubblicazione web o cartografia digitale |
-| 12:20-13:30| Pranzo |
-| 13:30-15:00| Lavoro pratico sulle tesi |
-| 15:00-15:30| Pausa |
-| 15:30-17:00| Keynote: Prof. Fabio Ciotti (Roma Tor Vergata) |
-| 17:00-17:30| Pausa |
-| 17:30-18:30| Partenza partecipanti | 
--->
 
 
 
