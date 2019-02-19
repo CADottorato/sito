@@ -27,12 +27,12 @@ Le prime due giornate si chiudono con uno **sportello aperto**, individuale e fa
 | 11:00-12:00 | "Aperitivo" Showcase dei corsi |
 | 12:00-13:00 | Presentazione progetti di ricerca |
 | 13:00-14:30 | Pranzo |
-| 13:30-15:30 | Presentazione progetti di ricerca |
+| 14:30-15:30 | Presentazione progetti di ricerca |
 | 15:30-16:00 | Pausa caffé |
 | 16:00-17:00 | CORSO: Dalla carta allo schermo |
 | 17:00-17:15 | Divisione in gruppi |
-| 17:15-18h15 | Keynote: Prof. Elena Pierazzo (Université de Tours) |
-| 18:14-19:00 | Controllo computer portatili e sportello individuale (facoltativo) |
+| 17:15-18:15 | Keynote: Prof. Elena Pierazzo (Université de Tours) |
+| 18:15-19:00 | Controllo computer portatili e sportello individuale (facoltativo) |
 | 19:00-...   | Aperitivo |
 
 
@@ -106,7 +106,7 @@ Il corso si concentra su due aree principali dell’analisi del testo con metodi
 Sotto il nome di “stilometria”, si raccolgono una serie di approcci che hanno come fine ultimo quello di distinguere e misurare lo stile autoriale. Metodi statistici come la “Delta distance” vengono frequentemente utilizzati per l’attribuzione di testi anonimi, mentre la “keyness analysis” è adottata per individuare le marche lessicali che caratterizzano la scrittura di uno o più autori. Dopo aver passato in rassegna sinteticamente i fondamenti teorico-matematici per ognuno di questi metodi, verranno mostrate le molteplici modalità di visualizzazione dei risultati (come i dendrogrammi e gli alberi di consenso), che rendono infine possibile una “lettura da lontano” (distant reading) dei più vasti corpora testuali.
 Nella più estesa area dell’analisi semantica, a seconda delle esigenze dei partecipanti, verranno presentati: algoritmi di “sentiment analysis”, che quantificano gli aspetti emotivi del testo con il fine di visualizzarne la struttura narrativa; algoritmi per la classificazione delle aree semantiche, che misurano le dominanti tematiche del testo; algoritmi di “topic modeling” e di semantica distribuzionale, che estraggono i temi e le relazioni concettuali direttamente dalla distribuzione delle parole in ampie collezioni testuali. Di tutti questi approcci saranno mostrate alcune semplici applicazioni negli studi letterari, sottolineando anche rischi e problematicità nel loro uso indiscriminato.
 
-**Simone** è ricercatore post-doc all'Università di Verona. Durante i **laboratori** con lui potrete lavorare su stilometria (stylo, JGAAP, pyDelta, pyZeta e quanteda), sentiment analysis (syuzhet, Stanford SA), classificazione semantica (LIWC, SEANCE), topic modeling (Gensim, LDA, Mallet) e semantica distribuzionale (word2vec, doc2vec).
+**Simone** è ricercatore post-doc all'Università di Basel e insegna <a href="http://www.dlls.univr.it/?ent=oi&codiceCs=L74&codins=4S006121&cs=812&discr=&discrCd=" target="_blank" title="Opens in new tab">letteratura comparata all’Università di Verona</a>. Durante i **laboratori** con lui potrete lavorare su stilometria (stylo, JGAAP, pyDelta, pyZeta e quanteda), sentiment analysis (syuzhet, Stanford SA), classificazione semantica (LIWC, SEANCE), topic modeling (Gensim, LDA, Mallet) e semantica distribuzionale (word2vec, doc2vec).
 
 
 
