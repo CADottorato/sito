@@ -14,7 +14,6 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 
 * [Introduzione](#introduzione)
 * [Informazioni organizzative](#informazioni-organizzative)
-* [Requisiti](#requisiti)
 * [Iscrizioni](#iscrizioni)
 * [Borse di studio](#borse-di-studio)
 * [Programma](program.md)
