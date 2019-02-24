@@ -5,7 +5,8 @@ layout: default
 ![CAD-logo](assets/img/CAD-logo-long.png)
 
 # Codificare, Analizzare, Diffondere: <br />Le *Digital Humanities* nei progetti di ricerca
-
+<br/>
+&#11025; [Torna alla Homepage](index.md)
 <br/>
 ## Programma
 

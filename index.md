@@ -17,7 +17,7 @@ Qui troverai tutte le informazioni relative alla scuola estiva CAD 2019.
 * [Requisiti](#requisiti)
 * [Iscrizioni](#iscrizioni)
 * [Borse di studio](#borse-di-studio)
-* [Programma](#programma)
+* [Programma](program.md)
 * [Contattaci](#contattaci)
 * [Ringraziamenti](#ringraziamenti)
 
@@ -170,15 +170,7 @@ Qualora il numero delle richieste fosse superiore alle borse messe a disposizion
 
 ## Programma
 
-Il programma si articola su quattro giorni e prevede l’inizio delle attività il **martedì alle 10:30** e la fine il **venerdì alle 17:00**.
-
-Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
-
-- Durante i **corsi** saranno presentati strumenti e tecnologie, tramite lezioni frontali e esercizi pratici. I corsi forniranno introduzioni e approfondimenti su XML/TEI, stilometria, trattamento automatico delle lingue, cartografia digitale, pubblicazione web.
-- I **laboratori** prevedono la divisione in gruppi e il lavoro pratico sui progetti di ricerca.
-
-Le due giornate centrali si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
-
+Tutti i dettagli sul [programma di CAD](program.md).
 
 
 
