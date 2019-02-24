@@ -170,7 +170,7 @@ Qualora il numero delle richieste fosse superiore alle borse messe a disposizion
 
 ## Programma
 
-Tutti i dettagli sul [programma di CAD](program.md).
+Tutti le info sul [programma di CAD](program.md).
 
 
 
