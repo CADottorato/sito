@@ -105,7 +105,7 @@ Le competenze dei formatori, abbinate alle conoscenze di Informatica Umanistica,
 <dt>Data</dt>
 <dd>16-19 luglio 2019</dd>
 <dt>Luogo</dt>
-<dd>Università di Verona, <a href="http://comunicazione.univr.it/santamarta/index.html" target="_blank" title="Opens in new tab">Polo Santa Marta</a></dd>
+<dd>Università di Verona, Polo Zanotto.<br/>Viale dell'Università, 4<br/>37129 Verona </dd>
 <!--<dt>Locandina pubblicitaria</dt>
 <dd><a href="https://raw.githubusercontent.com/CADottorato/sito/master/assets/img/CAD-Locandina.jpg" target="_blank" title="Opens in new tab">Download</a> (318 KB)</dd>-->
 <dt>Social</dt>
