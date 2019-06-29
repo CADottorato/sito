@@ -15,18 +15,19 @@ L’Università di Verona mette a disposizione dei computer; ove possibile, per 
 
 - Computer proprio con almeno **5-10GB di spazio disponibile**.
 - Sistema operativo: Windows (preferibilmente 7+), Linux o Mac OSX.
-- **Java 8**.
+- **[Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)** per il vostro sistema operativo. È possibile che dobbiate crearvi un account **Oracle** per scaricare Java 8.
 - **Programmi zip/unzip** (si tratta di programmi che normalmente avete di default nel vostro computer, come 7-Zip o WinZip per Windows, per gestire le cartelle compresse).
 - **Browser**: [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) e [Google Chrome](https://www.google.com/intl/en/chrome/).
 - Programma di lettura di testo semplice (per `txt` e `csv`):
 	- **[Sublime Text Editor 3](https://www.sublimetext.com/3)** per Windows, Linux e Mac.
 
-
+---
 
 ### Codifica dei testi
 
 - **[oXygen XML Editor](https://www.oxygenxml.com/xml_editor.html)**. Il software è a pagamento, ma si può scaricare una licenza di prova che dura 30 giorni, riempiendo il [form disponibile](https://www.oxygenxml.com/xml_editor/register.html?p=editor); l'ideale sarà scaricare il software a ridosso della scuola per poterlo utilizzare il più a lungo possibile.
 
+---
 
 ### Trattamento Automatico del Linguaggio
 
@@ -61,9 +62,12 @@ Mettere tutti i file scaricati in una cartella `treetagger` sul vostro Desktop.
 
 Mettere tutti i file scaricati in una cartella `treetagger` sul vostro Desktop.
 
+---
 
 ### Diffondere la ricerca online
 **oXygen XML Editor** (già usato per codifica dei testi, vd. sopra dettagli di installazione); in alternativa **Sublime Text Editor 3**.
+
+---
 
 ### Analisi semantica e di stile
 -  **R** (linguaggio di programmazione)
