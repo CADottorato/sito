@@ -22,6 +22,7 @@ L’Università di Verona mette a disposizione dei computer; ove possibile, per 
 	- **[Sublime Text Editor 3](https://www.sublimetext.com/3)** per Windows, Linux e Mac.
 
 ---
+<br/><br/><br/>
 
 ### Codifica dei testi
 
@@ -84,6 +85,7 @@ Mettere tutti i file scaricati in una cartella `treetagger` sul vostro Desktop.
 Per verificare l’installazione, sempre nella Console scrivete: `library(syuzhet)`; premete `enter`, e in questo caso nessun messaggio di benvenuto comparirà (ma nemmeno messaggi di errore).
 - Le esercitazioni di topic modeling saranno eseguite tramite un servizio online che non richiede installazione: [https://mimno.infosci.cornell.edu/jsLDA/](https://mimno.infosci.cornell.edu/jsLDA/).
 
+---
 
 ### Cartografia e network
 
