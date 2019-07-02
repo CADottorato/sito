@@ -138,8 +138,6 @@ I criteri per la valutazione sono:
 
 Il progetto di ricerca in sé non è sottoposto ad alcuna valutazione.
 
-#### Requisiti
-
 **Non sono richieste competenze computazionali né un dottorato**. I partecipanti potranno usare i computer messi a disposizione dall'Università di Verona o lavorare sui propri. Nel secondo caso, andranno installati alcuni programmi prima della Summer School, e saranno fornite istruzioni per l'installazione. 
 
 Conoscenza della lingua inglese. La lingua della scuola è l’italiano, ma alcuni materiali, esercizi o interventi possono essere in inglese.
