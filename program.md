@@ -20,33 +20,45 @@ Si prevedono due tipi di attività: i **corsi** e i **laboratori** :
 Le prime due giornate si chiudono con uno **sportello aperto**, individuale e facoltativo dove i partecipanti potranno porre delle domande dirette ai formatori, al fine di risolvere dubbi riguardanti le attività della giornata o direttamente sui casi di studio della loro ricerca.
 
 <br/><br/>
+Aule WIN e MAC
+
+Università di Verona, Polo Zanotto.
+
+Viale dell'Università, 4
+
+37129 Verona
+
+Ulteriori indicazioni sulle divisione dei gruppi nelle aule saranno date durante la scuola.
+<br/><br/>
+
 ### Martedì 16 luglio
 
 | Ore          | Sessione          |
 |:-------------|:------------------|
-| 10:15-11:00 | Benvenuto |
+| 10:15-11:00 | Benvenuto. Saluti degli organizzatori, AIPI (Prof. Carmen Van den Bergh e Prof. Bart Van Den Bossche), AIUCD (Prof. Fabio Ciotti), Università di Verona (Prof. Adele Cipolla e Prof. Anna Bognolo) |
 | 11:00-12:00 | "Aperitivo" Showcase dei corsi |
 | 12:00-13:00 | Presentazione progetti di ricerca |
-| 13:00-14:30 | Pranzo |
+| 13:00-14:30 | Pranzo. Mensa San Francesco, Cittadella della Cultura di Veronetta – Viale dell’Università, 4 |
 | 14:30-15:30 | Presentazione progetti di ricerca |
-| 15:30-16:00 | Pausa caffé |
-| 16:00-17:00 | CORSO: Dalla carta allo schermo |
+| 15:30-16:00 | Pausa caffè |
+| 16:00-17:00 | CORSO: Dalla carta allo schermo (Bazzaco) |
 | 17:00-17:15 | Divisione in gruppi |
 | 17:15-18:15 | Keynote: Prof. Elena Pierazzo (Université de Tours) |
 | 18:15-19:00 | Controllo computer portatili e sportello individuale (facoltativo) |
-| 19:00-...   | Aperitivo |
+| 19:00-...   | Aperitivo. Bar 'La Nuova Idea'
+Via dell'Artigliere, 13, Verona |
 
 
 ### Mercoledì 17 luglio
 
 | Ore         | Sessione        |
 |:------------|:----------------|
-| 9:30-11:00  | CORSO: Codifica dei testi |
-| 11:00-11:30 | Pausa caffé | 
-| 11:30-13:00 | CORSO: Codifica dei testi |
-| 13:00-14:30 | Pranzo |
+| 9:30-11:00  | CORSO: Codifica dei testi (Gabay) |
+| 11:00-11:30 | Pausa caffè | 
+| 11:30-13:00 | CORSO: Codifica dei testi (Gabay) |
+| 13:00-14:30 | Pranzo. Mensa San Francesco, Cittadella della Cultura di Veronetta – Viale dell’Università, 4 |
 | 14:30-16:00 | LABORATORI |
-| 16:00-16:30 | Pausa caffé |
+| 16:00-16:30 | Pausa caffè |
 | 16:30-18:00 | LABORATORI |
 | 18:00-19:00 | Sportello individuale (facoltativo) |
 
@@ -55,27 +67,28 @@ Le prime due giornate si chiudono con uno **sportello aperto**, individuale e fa
 
 | Ore        | Sessione          |
 |:-----------|:------------------|
-| 9:30-11:00  | CORSO: Trattamento Automatico del Linguaggio / Analisi semantica e di stile |
-| 11:00-11:30 | Pausa caffé | 
-| 11:30-13:00 | CORSO: Trattamento Automatico del Linguaggio / Analisi semantica e di stile |
-| 13:00-14:30 | Pranzo |
+| 9:30-11:00  | CORSO: Trattamento Automatico del Linguaggio (Franzini) / Analisi semantica e di stile (Rebora) |
+| 11:00-11:30 | Pausa caffè | 
+| 11:30-13:00 | CORSO: Trattamento Automatico del Linguaggio (Franzini) / Analisi semantica e di stile (Rebora) |
+| 13:00-14:30 | Pranzo. Mensa San Francesco, Cittadella della Cultura di Veronetta – Viale dell’Università, 4 |
 | 14:30-16:00 | LABORATORI |
-| 16:00-16:30 | Pausa caffé |
+| 16:00-16:30 | Pausa caffè |
 | 16:30-17:30 | LABORATORI |
 | 17:30-18:30 | Keynote: Prof. Fabio Ciotti (Università di Roma Tor Vergata) |
-| 20:00-...   | Cena sociale |
+| 20:00-...   | Cena sociale. Osteria Ai Osei
+Via Venti Settembre, 124/B |
 
 
 ### Venerdì 19 luglio
 
 | Ore        | Sessione          |
 |:-----------|:------------------|
-| 9:30-11:00  | CORSO: Cartografia e network / Diffondere la ricerca online |
-| 11:00-11:30 | Pausa caffé | 
-| 11:30-13:00 | CORSO: Cartografia e network / Diffondere la ricerca online |
-| 13:00-14:30 | Pranzo |
+| 9:30-11:00  | CORSO: Cartografia e network (Vitali) / Diffondere la ricerca online (Spadini) |
+| 11:00-11:30 | Pausa caffè | 
+| 11:30-13:00 | CORSO: Cartografia e network (Vitali) / Diffondere la ricerca online (Spadini) |
+| 13:00-14:30 | Pranzo. Mensa San Francesco, Cittadella della Cultura di Veronetta – Viale dell’Università, 4 |
 | 14:30-16:00 | LABORATORI |
-| 16:00-16:30 | Pausa caffé |
+| 16:00-16:30 | Pausa caffè |
 | 16:30-17:00 | Feedback e saluti |
 
 
