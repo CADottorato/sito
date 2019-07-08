@@ -23,8 +23,8 @@ layout: default
 
 #### Dati
 
-- _Due alchimisti italiani_, Racconti storici e morali, di Cesare Cantù (1878): [cantu_due-alchimisti-italiani_1878.txt]()
-- _Che cos'è il mondo_, Novelle, di Adolfo Albertazzi (1940): [albertazzi_il-mondo_1940.txt]()
+- _Due alchimisti italiani_, Racconti storici e morali, di Cesare Cantù (1878): [cantu_due-alchimisti-italiani_1878.txt](https://github.com/CADottorato/sito/blob/master/materiali/nlp/cantu_due-alchimisti-italiani_1878.txt)
+- _Che cos'è il mondo_, Novelle, di Adolfo Albertazzi (1940): [albertazzi_il-mondo_1940.txt](https://github.com/CADottorato/sito/blob/master/materiali/nlp/albertazzi_il-mondo_1940.txt)
 
 
 #### Slide
