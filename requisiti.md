@@ -44,8 +44,8 @@ L’Università di Verona mette a disposizione dei computer; ove possibile, per 
 - **[Homebrew](https://brew.sh/)**
 - **[TreeTagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)**. L'installazione prevede il download dei seguenti file:
 	1. [Pacchetto Tagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tree-tagger-MacOSX-3.2.2.tar.gz)
-	2. [Tagging scripts](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tagger-scripts.tar.gz).
-	3. Installation script [install-tagger.sh](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/install-tagger.sh).
+	2. [Tagging scripts](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/tagger-scripts.tar.gz)
+	3. Installation script [install-tagger.sh](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/install-tagger.sh)
 	4. Parameter files:
 		- [Italian parameter file](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/italian.par.gz) (gzip compressed, UTF8, tagset documentation)
 		- Marco Baroni's [Italian parameter file](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/italian2.par.gz) (gzip compressed, Latin1, tagset documentation)
