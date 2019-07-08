@@ -28,7 +28,7 @@ layout: default
 
 #### TreeTagger
 
-- Modello D(h)ante (PoS, no lemma): [italian-dhante.par](https://github.com/CADottorato/sito/blob/master/materiali/nlp/italian-dhante.par)
+- Modello [D(h)ante](https://dh.fbk.eu/D%28h%29ante) (PoS, no lemma): [italian-dhante.par](https://github.com/CADottorato/sito/blob/master/materiali/nlp/italian-dhante.par)
 
 #### Slide
 
