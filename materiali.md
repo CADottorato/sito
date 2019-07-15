@@ -16,6 +16,10 @@ layout: default
 
 Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.html#/)&#x7c;[pdf](materiali/intro/CADverona_intro.pdf)]
 
+Showcase:
+
+- Diffondere la ricerca online [[link](https://elespdn.github.io/talks/20190719_verona/20190719_showcase.html#/)&#x7c;[pdf](materiali/intro/showcase)]
+
 
 ---
 
