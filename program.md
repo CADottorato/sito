@@ -35,7 +35,7 @@ Ulteriori indicazioni sulle divisione dei gruppi nelle aule saranno date durante
 
 | Ore          | Sessione          |
 |:-------------|:------------------|
-| 10:15-11:00 | Benvenuto. Saluti degli organizzatori, AIPI (Prof. Carmen Van den Bergh e Prof. Bart Van Den Bossche), AIUCD (Prof. Fabio Ciotti), Università di Verona (Prof. Adele Cipolla e Prof. Anna Bognolo) |
+| 10:15-11:00 | Benvenuto. Saluti degli organizzatori, AIPI (Prof. Carmen Van den Bergh e Prof. Bart Van Den Bossche), Università di Verona (Prof. Marco Rospocher, Prof. Adele Cipolla e Prof. Anna Bognolo) |
 | 11:00-12:00 | "Aperitivo" Showcase dei corsi |
 | 12:00-13:00 | Presentazione progetti di ricerca |
 | 13:00-14:30 | Pranzo. Mensa San Francesco, Cittadella della Cultura di Veronetta – Viale dell’Università, 4 |
@@ -45,8 +45,7 @@ Ulteriori indicazioni sulle divisione dei gruppi nelle aule saranno date durante
 | 17:00-17:15 | Divisione in gruppi |
 | 17:15-18:15 | Keynote: Prof. Elena Pierazzo (Université de Tours) |
 | 18:15-19:00 | Controllo computer portatili e sportello individuale (facoltativo) |
-| 19:00-...   | Aperitivo. Bar 'La Nuova Idea'
-Via dell'Artigliere, 13, Verona |
+| 19:00-...   | Aperitivo. Bar 'La Nuova Idea'. Via dell'Artigliere, 13, Verona |
 
 
 ### Mercoledì 17 luglio
@@ -75,8 +74,7 @@ Via dell'Artigliere, 13, Verona |
 | 16:00-16:30 | Pausa caffè |
 | 16:30-17:30 | LABORATORI |
 | 17:30-18:30 | Keynote: Prof. Fabio Ciotti (Università di Roma Tor Vergata) |
-| 20:00-...   | Cena sociale. Osteria Ai Osei
-Via Venti Settembre, 124/B |
+| 20:00-...   | Cena sociale. Osteria Ai Osei. Via Venti Settembre, 124/B |
 
 
 ### Venerdì 19 luglio
@@ -160,11 +158,3 @@ Il corso è diviso in parti uguali tra presentazioni frontali e esercizi pratici
 Alla fine del corso i partecipanti saranno in grado di creare un sito web statico per presentare il proprio progetto o il proprio profilo professionale; e avranno acquisito le conoscenze necessarie per definire una strategia di gestione e diffusione dei dati e dei risultati della ricerca sul web, da implementare nell'attuale progetto o inserire nella domanda per un futuro progetto di ricerca.
 
 **Elena** è ricercatrice post-doc all'Università di Losanna. Durante i **laboratori** con lei potrete lavorare su filologia digitale (collazione automatica, strumenti per la filologia romanza), modellazione dei dati e web semantico (base-dati relazionali, ontologie, OWL, RDF), XML (TEI, XSLT, pubblicazione di testi in TEI), pubblicazione web (HTML, CSS, Bootstrap).
-
-
-
-
-
-
-
-
