@@ -14,8 +14,18 @@ layout: default
 
 ### Intro
 
-Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.html#/)|pdf soon]
+Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.html#/)&#x7c;[pdf](materiali/intro/CADverona_intro.pdf)]
 
+
+---
+
+### Dalla carta alla schermo
+
+[Slides](materiali/ocr/Bazzaco_pptCAD2019.pdf)
+
+[Bibliografia](materiali/ocr/bibliografia_OCR_per_umanisti.pdf)
+
+---
 
 ### Codifica dei testi
 
