@@ -12,6 +12,10 @@ layout: default
 ## Materiali
 
 
+### Intro
+
+Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.html#/)|pdf soon]
+
 
 ### Codifica dei testi
 
