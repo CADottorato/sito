@@ -35,9 +35,9 @@ Showcase:
 
 ### Codifica dei testi
 
-[Corso 1](materiali/tei/corso_1.zip)
+Corso 1: [tutto](materiali/tei/corso_1.zip), [slides](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_1/TEI_1.md), [esercizio](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_1/Esercizio_1/Esercizio_1.md)
 
-[Corso 2](materiali/tei/corso_2.zip)
+Corso 2: [tutto](materiali/tei/corso_2.zip), [slides](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_2/TEI_2.md) 
 
 [Progetto Oxygen](materiali/tei/Corso_2019_07_16_Verona.xpr)
 
