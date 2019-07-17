@@ -35,9 +35,9 @@ Showcase:
 
 ### Codifica dei testi
 
-[Corso 1](materiali/tei/corso1.zip)
+[Corso 1](materiali/tei/corso_1.zip)
 
-[Corso 2](materiali/tei/corso2.zip)
+[Corso 2](materiali/tei/corso_2.zip)
 
 [Progetto Oxygen](materiali/tei/Corso_2019_07_16_Verona.xpr)
 
