@@ -62,15 +62,20 @@ Corso 2: [tutto](materiali/tei/corso_2.zip), [slides](https://github.com/CADotto
 
 ---
 
-### Diffondere la ricerca online
 
-
----
 
 ### Analisi semantica e di stile
 
+[Materiali](https://owncloud.gwdg.de/index.php/s/XsziMPRXz8kRWWU)
 
 ---
 
 ### Cartografia e network
 
+
+--- 
+
+### Diffondere la ricerca online
+
+
+---
