@@ -18,6 +18,8 @@ Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.
 
 Showcase:
 
+- Codifica dei testi [materiali](materiali/tei/showcase.zip)
+
 - Diffondere la ricerca online [[link](https://elespdn.github.io/talks/20190719_verona/20190719_showcase.html#/)&#x7c;[pdf](materiali/intro/showcase)]
 
 
@@ -33,6 +35,11 @@ Showcase:
 
 ### Codifica dei testi
 
+[Corso 1](materiali/tei/corso1.zip)
+
+[Corso 2](materiali/tei/corso2.zip)
+
+[Progetto Oxygen](materiali/tei/Corso_2019_07_16_Verona.xpr)
 
 
 ---

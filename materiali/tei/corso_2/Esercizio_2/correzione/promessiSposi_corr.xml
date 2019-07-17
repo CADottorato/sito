@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edizione digitale dei Promessi Sposi</title>
+            <author>Alessandro Manzoni</author>
+            <editor>Simon Gabay</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Scuola estiva CAD 2019, Verona. <ref target="https://creativecommons.org/licenses/by/4.0/deed.it">CC-BY</ref></p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Alessandro Manzoni</author>
+               <title>I Promessi Sposi</title>
+               <pubPlace>Milano</pubPlace>
+               <publisher>Guglielmini E. Redaelli</publisher>
+               <date when="1840">1840</date>
+               <ref target="https://it.wikisource.org/wiki/I_promessi_sposi_(1840)">Wikisource</ref>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapter" n="1">
+            <head>Capitolo I</head>
+            <gap reason="sampling"/>
+            <pb facs="../../facsimile/page19-1024px-I_promessi_sposi_(1840).djvu.jpg"/>
+            <p>Fino dall’<date when="1583-04-08">otto aprile dell’anno 1583</date>, l’Illustrissimo ed Eccellentissimo signor <persName xml:id="Carlo">don Carlo d’<placeName>Aragon</placeName></persName>,
+               Principe di <placeName>Castelvetrano</placeName>, Duca di <placeName>Terranuova</placeName>, Marchese d’<placeName>Avola</placeName>, Conte di <placeName>Burgeto</placeName>, grande <placeName>Ammiraglio</placeName>,
+               e gran Contestabile di <placeName>Sicilia</placeName>, Governatore di <placeName xml:id="Milano">Milano</placeName> e Capitan Generale di Sua Maestà Cattolica in
+               <placeName>Italia</placeName>, <hi rend="italic">pienamente informato della intollerabile miseria in che è vivuta e vive questa Città di <placeName>Milano</placeName>,
+                  per cagione dei bravi e vagabondi</hi>, pubblica un bando contro di essi.
+               
+               <figure>
+                  <graphic url="../../imagine/I_promessi_sposi-022.jpg"/>
+               </figure>
+               
+               Dichiara e diffinisce tutti coloro
+               essere compresi in questo bando, e doversi ritenere bravi e vagabondi... i quali, essendo forestieri o
+               del paese, non hanno esercizio alcuno, od avendolo, non lo fanno... ma, senza salario, o pur con esso,
+               s’appoggiano a qualche cavaliere o gentiluomo, officiale o mercante... per fargli spalle e favore, o
+               veramente, come si <pb facs="../../facsimile/page20-1024px-I_promessi_sposi_(1840).djvu.jpg"/>può presumere, per tendere insidie ad altri... A tutti costoro ordina che, nel
+               termine di giorni sei, abbiano a sgomberare il paese, intima la galera a’ renitenti, e dà a tutti gli
+               ufiziali della giustizia le più stranamente ampie e indefinite facoltà, per l’esecuzione dell’ordine.
+               Ma, nell’anno seguente, il <date when="1583-04-12">12 aprile</date>, scorgendo il detto signore, che questa Città è tuttavia piena di
+               detti bravi... tornati a vivere come prima vivevano, non punto mutato il costume loro, né scemato il
+               numero, dà fuori un’altra grida, ancor più vigorosa e notabile, nella quale, tra l’altre ordinazioni,
+               prescrive:</p>
+            
+            <p><hi rend="italic">Che qualsivoglia persona, così di <rs ref="#Milano">questa Città</rs>, come forestiera, che per due testimonj consterà esser
+               tenuto, e comunemente riputato per bravo, et aver tal nome, ancorché non si verifichi aver fatto delitto
+               alcuno... per questa sola riputazione di bravo, senza altri indizj, possa dai detti giudici e da ognuno
+               di loro esser posto alla corda et al tormento, per processo informativo... et ancorché non confessi delitto
+               alcuno, tuttavia sia mandato alla galea, per detto triennio, per la sola opinione e nome di bravo, come di
+               sopra.</hi> <hi rend="italic">Tutto ciò, e il di più che si tralascia, perché <rs ref="#Carlo">Sua Eccellenza</rs> è risoluta di voler essere obbedita
+                  da ognuno.</hi></p>
+            <p>Che qualsivoglia persona, così di <rs ref="#Milano">questa Città</rs>, come forestiera, che per due testimonj consterà 
+               esser tenuto, e comunemente riputato per bravo, et aver tal nome, ancorché non si verifichi aver 
+               fatto delitto alcuno... per questa sola riputazione di bravo, senza altri indizj, possa dai detti 
+               giudici e da ognuno di loro esser posto alla corda et al tormento, per processo informativo... et 
+               ancorché non confessi delitto alcuno, tuttavia sia mandato alla galea, per detto triennio, per la 
+               sola opinione e nome di bravo, come di sopra. Tutto ciò, e il di più che si tralascia, perché Sua 
+               Eccellenza è risoluta di voler essere obbedita da ognuno.</p>
+            <p>All’udir parole d’un tanto signore, così gagliarde e sicure, e accompagnate da tali ordini, viene 
+               una gran voglia di credere che, al solo rimbombo di esse, tutti i bravi siano scomparsi per sempre. 
+               Ma la testimonianza d’un signore non meno autorevole, né meno dotato di nomi, ci obbliga a credere 
+               tutto il contrario. È questi l’Illustrissimo ed Eccellentissimo Signor <persName>Juan Fernandez de <placeName>Velasco</placeName></persName>, 
+               Contestabile di <placeName>Castiglia</placeName>, Cameriero maggiore di <placeName>Sua Maestà</placeName>, Duca della Città di <placeName>Frias</placeName>, Conte di 
+               <placeName>Haro</placeName> e <placeName>Castelnovo</placeName>, Signore della Casa di <placeName>Velasco</placeName>, e di quella delli sette Infanti di <placeName>Lara</placeName>, 
+               Governatore dello Stato di <placeName>Milano</placeName>, etc. Il <date when="1593-06-05">5 giugno dell’anno 1593</date>, pienamente informato anche lui 
+               <hi rend="italic">di quanto danno e rovine sieno... i bravi e vagabondi, e del pessimo effetto che tal sorta di gente, 
+                  fa contra il ben pubblico, et in delusione della giustizia</hi>, intima loro di nuovo che, nel termine di 
+               giorni sei, abbiano a sbrattare il paese, ripetendo a un dipresso le prescrizioni e le minacce 
+               medesime del suo predecessore. Il <date when="1593-05-23">23 maggio poi dell’anno 1598</date>, <hi rend="italic">informato, con non poco dispiacere 
+                  dell’animo suo, che... ogni dì più in questa Città e Stato va crescendo il numero di questi tali</hi> (bravi 
+               e vagabondi), <hi rend="italic">né di loro, giorno e notte, altro si sente che ferite appostatamente date, omicidii e 
+                  ruberie et ogni altra qualità di delitti, ai <pb facs="../../facsimile/page21-1024px-I_promessi_sposi_(1840).djvu.jpg"/> quali si rendono più facili, confidati essi bravi 
+                  d’essere aiutati dai capi e fautori loro</hi>... prescrive di nuovo gli stessi rimedi, accrescendo la dose, 
+               come s’usa nelle malattie ostinate. <hi rend="italic">Ognuno dunque, conchiude poi, onninamente si guardi di 
+                  contravvenire in parte alcuna alla grida presente, perché, in luogo di provare la clemenza di Sua 
+                  Eccellenza, proverà il rigore, e l’ira sua... essendo risoluta e determinata che questa sia l’ultima 
+                  e perentoria monizione.</hi></p>
+            <p>Non fu però di questo parere l’Illustrissimo ed Eccellentissimo Signore, il Signor <persName>Don Pietro 
+               Enriquez de <placeName>Acevedo</placeName></persName>, Conte di <placeName>Fuentes</placeName>, Capitano, e Governatore dello Stato di <placeName>Milano</placeName>; non fu di 
+               questo parere, e per buone ragioni. <hi rend="italic">Pienamente informato della miseria in che vive <rs ref="#Milano">questa Città e 
+                  Stato</rs> per cagione del gran numero di bravi che in esso abbonda... e risoluto di totalmente estirpare 
+                  seme tanto pernizioso</hi>, dà fuori, il <date when="1600-12-05">5 decembre 1600</date>, una nuova grida piena anch’essa di severissime 
+               comminazioni, con <hi rend="italic">fermo proponimento che, con ogni rigore, e senza speranza di remissione, siano 
+                  onninamente eseguite.</hi></p>
+            <p>Convien credere però che non ci si mettesse con tutta quella buona voglia che sapeva impiegare 
+               nell’ordir cabale <note n="6">Allusione alle trame con cui don Pedro Enriquez indusse Carlo Emanuele di Savoia a muovere</note>, e nel suscitar nemici al suo gran nemico Enrico IV; giacché, per questa parte, 
+               la storia attesta come riuscisse ad armare contro quel re il duca di Savoia, a cui fece perder più d’una 
+               città; come riuscisse a far congiurare il duca di Biron, a cui fece perder la testa; ma, per ciò che 
+               riguarda quel seme tanto pernizioso de’ bravi, certo è che esso continuava a germogliare, il 22 
+               settembre dell’anno 1612. In quel giorno l’Illustrissimo ed Eccellentissimo Signore, il Signor Don 
+               Giovanni de Mendozza, Marchese de la Hynojosa, Gentiluomo etc., Governatore etc., pensò seriamente ad 
+               estirparlo. A quest’effetto, spedì a Pandolfo e Marco Tullio Malatesti, stampatori regii camerali <note n="7">guerra contro Enrico IV di Francia, grazie al tradimento di Carlo de Gontant, duca di Biron; quest'ultimo fu scoperto e decapitato, il primo venne sconfitto.</note>, 
+               la solita grida, corretta ed accresciuta, perché la stampassero ad esterminio de’ bravi. Ma questi 
+               vissero ancora per ricevere, il <date when="1618-12-24">24 decembre dell’anno 1618</date>, gli stessi e più forti colpi dall’Illustrissimo 
+               ed Eccellentissimo Signore, il Signor <persName xml:id="donGomez">Don Gomez Suarez de Figueroa</persName>, Duca di Feria, etc., Governatore etc. 
+               Però, non essendo essi morti neppur di quelli, l’Illustrissimo ed Eccellentissimo Signore, il Signor <persName>Gonzalo 
+                  Fernandez di Cordova</persName>, sotto il cui governo accadde la passeggiata di <persName xml:id="donAbbondio">don Abbondio</persName>, s’era trovato costretto a 
+               ricorreggere e ripubblicare la solita grida contro i bravi, il giorno <date when="1627-10-05">5 ottobre del 1627</date>, cioè un anno, un 
+               mese e due giorni prima di quel memorabile avvenimento.</p>
+            <pb facs="../../facsimile/page22-1024px-I_promessi_sposi_(1840).djvu.jpg"/>
+            <p>Nè fu questa l’ultima pubblicazione; ma noi delle posteriori non crediamo dover far menzione, come di 
+               cosa che esce dal periodo della nostra storia. Ne accenneremo soltanto una del <date>13 febbraio dell’anno 1632</date>, 
+               nella quale l’<rs ref="#donGomez">Illustrissimo ed Eccellentissimo Signore, <hi rend="italic">el Duque de Feria</hi>,</rs> per la seconda volta governatore, 
+               ci avvisa che <hi rend="italic">le maggiori sceleraggini procedono da quelli che chiamano bravi</hi>. Questo basta ad assicurarci 
+               che, nel tempo di cui noi trattiamo, c’era de’ bravi tuttavia <note n="8">Tipografi che avevano il privilegio di stampare decreti della "Regia Camera", cioè del pubblico erario.</note>.</p>
+            <p>Che i due descritti di sopra stessero ivi ad aspettar qualcheduno, era cosa troppo evidente; ma quel che 
+               più dispiacque a <persName ref="#donAbbondio">don Abbondio</persName> fu il dover accorgersi, per certi atti, che l’aspettato era lui. Perché, al 
+               suo apparire, coloro s’eran guardati in viso, alzando la testa, con un movimento dal quale si scorgeva che 
+               tutt’e due a un tratto avevan detto: è lui; quello che stava a cavalcioni s’era alzato, tirando la sua gamba 
+               sulla strada; l’altro s’era staccato dal muro; e tutt’e
+               
+               <figure>
+                  <graphic url="../../imagine/I_promessi_sposi-025.jpg"/>
+               </figure>
+               <pb facs="../../facsimile/page23-1024px-I_promessi_sposi_(1840).djvu.jpg"/>
+               
+               due gli s’avviavano incontro. Egli, tenendosi sempre 
+               il breviario aperto dinanzi, come se leggesse, spingeva lo sguardo in su, per ispiar le mosse di coloro; e, 
+               vedendoseli venir proprio incontro, fu assalito a un tratto da mille pensieri. Domandò subito in fretta a se 
+               stesso, se, tra i bravi e lui, ci fosse qualche uscita di strada, a destra o a sinistra; e gli sovvenne subito 
+               di no. Fece un rapido esame, se avesse peccato contro qualche potente, contro qualche vendicativo; ma, anche 
+               in quel turbamento, il testimonio consolante della coscienza lo rassicurava alquanto: i bravi però 
+               s’avvicinavano, guardandolo fisso. Mise l’indice e il medio della mano sinistra nel collare, come per 
+               raccomodarlo; e, girando le due dita intorno al collo, volgeva intanto la faccia all’indietro, torcendo insieme 
+               la bocca, e guardando con la coda dell’occhio, fin dove poteva, se qualcheduno arrivasse; ma non vide
+               
+               <figure>
+                  <graphic url="../../imagine/I_promessi_sposi-026.jpg"/>
+               </figure>
+               
+               nessuno. 
+               Diede un’occhiata, al di sopra del muricciolo, ne’ campi: nessuno; un’altra più modesta sulla strada dinanzi; 
+               nessuno, fuorché i bravi. Che fare? tornare indietro, non era a tempo: darla a gambe, era lo stesso che dire, 
+               inseguitemi, o peggio. Non potendo schivare il pericolo, vi corse incontro, perché i momenti di quell’incertezza 
+               erano allora così penosi per lui, che non desiderava altro che d’abbreviarli. Affrettò il passo, recitò un 
+               versetto a voce più alta, compose la faccia a tutta quella quiete e ilarità che poté, fece ogni sforzo per 
+               preparare un sorriso; quando si trovò a fronte dei due galantuomini, disse mentalmente: ci siamo; e si fermò 
+               su due piedi.</p>
+            <said direct="true">- <rs ref="#donAbbondio">Signor curato</rs>, - disse un di que’ due, piantandogli gli occhi in faccia.</said>
+            
+            <pb facs="../../facsimile/page24-1024px-I_promessi_sposi_(1840).djvu.jpg"/>
+            
+            <said direct="true">- Cosa comanda? - rispose subito <persName ref="#donAbbondio">don Abbondio</persName>, alzando i suoi dal libro, che gli restò spalancato nelle mani, 
+               come sur un leggìo.</said>
+            <said direct="true">- Lei ha intenzione, - proseguì l’altro, con l’atto minaccioso e iracondo di chi coglie un suo inferiore 
+               sull’intraprendere una ribalderia, - lei ha intenzione di maritar domani <persName>Renzo Tramaglino</persName> e <persName>Lucia Mondella</persName>!</said>
+            <said direct="true">- Cioè... - rispose, con voce tremolante, <persName ref="#donAbbondio">don Abbondio</persName>: - cioè. Lor signori son uomini di mondo, e sanno 
+               benissimo come vanno queste faccende. Il povero curato non c’entra: fanno i loro pasticci tra loro, e poi... 
+               e poi, vengon da noi, come s’anderebbe a un banco a riscotere; e noi... noi siamo i servitori del comune <note n="9">Ancora, tuttora.</note>.</said>
+            <said direct="true">- Or bene, - gli disse il bravo, all’orecchio, ma in tono solenne di comando, - questo matrimonio non s’ha 
+               da fare, né domani, né mai.</said>
+            
+            <figure>
+               <graphic url="../../imagine/I_promessi_sposi-027.jpg"/>
+            </figure>
+            
+            <gap reason="sampling"/>
+         </div>
+      </body>
+   </text>
+</TEI>

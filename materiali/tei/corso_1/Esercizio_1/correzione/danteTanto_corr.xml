@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <body>
+        <div type="sonetto">
+           <head>Tanto gentile e tanto onesta pare</head>
+           <lg type="quartina">
+              <l n="1">Tanto gentile e tanto onesta pare</l>
+              <l n="2">la donna mia quand’ella altrui saluta,</l>
+              <l n="3">ch’ogne lingua deven tremando muta,</l>
+              <l n="4">e li occhi no l’ardiscon di guardare.</l>
+           </lg>
+           <lg type="quartina">
+              <l n="5">Ella si va, sentendosi laudare,</l>
+              <l n="6">benignamente d’umiltà vestuta;</l>
+              <l n="7">e par che sia una cosa venuta</l>
+              <l n="8">da cielo in terra a miracol mostrare.</l>
+           </lg>
+           <lg type="terzina">
+              <l n="9">Mostrasi sì piacente a chi la mira,</l>
+              <l n="10">che dà per li occhi una dolcezza al core,</l>
+              <l n="11">che ’ntender no la può chi no la prova:</l>
+           </lg>
+           <lg type="terzina">
+              <l n="12">e par che de la sua labbia si mova</l>
+              <l n="13">un spirito soave pien d’amore,</l>
+              <l n="14">che va dicendo a l’anima: sospira</l>
+           </lg>
+        </div>
+      </body>
+  </text>
+</TEI>

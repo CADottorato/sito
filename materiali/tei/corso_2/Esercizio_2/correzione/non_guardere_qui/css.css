@@ -1,0 +1,103 @@
+.logo{
+  text-align:right;}
+
+.logo_img{width:50px;
+  height:auto;}
+
+
+.header{border-style: solid;
+  border-width: 5px;
+  margin-left: 7em;
+  margin-right: 7em;
+  padding: 1em;
+  background-color: lightgrey;
+}
+
+.teiHeaderElement{
+  display: block;
+  margin-top: 0.5em;
+}
+h1{text-align: center;
+ }
+
+.persName{color: red;
+}
+
+.persName{color: blue;
+}
+
+.date{color: green;
+}
+
+.illustration{display: block;
+  text-align:center;
+}
+
+.illustration_image{
+  max-width: 300px;
+
+ }
+
+.page{position: absolute; right: 7em;
+}
+
+.page_image{
+max-width: 50px;
+}
+
+.title{font-style: italic;}
+
+.chapter{margin-right: 15em;
+  margin-left: 15em;
+  margin-bottom: 4em;
+  margin-top: 4em;
+  text-align: justify;
+}
+
+
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}

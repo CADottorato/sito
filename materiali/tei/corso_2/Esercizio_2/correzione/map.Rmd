@@ -1,0 +1,68 @@
+---
+title: "map"
+author: "S. Gabay & J.L. Losada"
+date: "7/15/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+setwd("~/GitHub/Cours_2019_07_16_Verone/correzione")
+```
+
+```{r setup, include=FALSE}
+library(XML)
+```
+
+# Load the XML
+```{r setup, include=FALSE}
+xmlfile <-  xmlParse("promessiSposi_corr.xml", encoding="UTF-8")
+namespace <- c(TEI="http://www.tei-c.org/ns/1.0")
+```
+
+# Extract the placeNames
+```{r setup, include=FALSE}
+placesNames <-  sapply(getNodeSet(xmlfile, "//TEI:text//TEI:placeName", namespace), xmlValue)
+```
+
+# Put them in a dataframe counting its frequency 
+```{r setup, include=FALSE}
+places = as.data.frame(table(placesNames), stringsAsFactors = F)
+places
+```
+
+# georeference the places
+# install_github("editio/georeference")
+# see at https://github.com/editio/georeference
+```{r setup, include=FALSE}
+library(georeference)
+```
+
+# GeoNames requires a user account, free, to use their API services.
+
+```{r setup, include=FALSE}
+places_geo = georef(places$places, source = "geonames", inject = "username=gabays")
+```
+
+# Pelagios (several gazzetters)
+# places_geo = georef(places$places)
+
+# Plot the map without frequency
+
+```{r setup, include=FALSE}
+library(leaflet)
+```
+
+```{r setup, include=FALSE}
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(places_geo$lon, places_geo$lat, label=places_geo$name)
+```
+
+# Plot the map with frequency and add a legend
+
+```{r setup, include=FALSE}
+leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers(places_geo$lon, places_geo$lat, label=places_geo$searched_name, weight = 6, fillOpacity=0.7, radius = sqrt(places$Freq)*10) %>%
+  addControl("S. Gabay & J. L. Losada · Named entities: </br> Places mencioned in Manzoni's <em>I Promessi sposi</em> (excerpt)", position = "bottomleft" )
+```

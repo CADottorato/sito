@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         Tanto gentile e tanto onesta pare
+         
+         
+         <l>Tanto gentile e tanto onesta pare</l>
+         la donna mia quand’ella altrui saluta,
+         ch’ogne lingua deven tremando muta,
+         e li occhi no l’ardiscon di guardare.
+         
+         Ella si va, sentendosi laudare,
+         benignamente d’umiltà vestuta;
+         e par che sia una cosa venuta
+         da cielo in terra a miracol mostrare.
+         
+         Mostrasi sì piacente a chi la mira,
+         che dà per li occhi una dolcezza al core,
+         11che ’ntender no la può chi no la prova:
+         
+         e par che de la sua labbia si mova
+         un spirito soave pien d’amore,
+         che va dicendo a l’anima: sospira 
+      </body>
+  </text>
+</TEI>
