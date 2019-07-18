@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="witM">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Italia</country>
+                        <settlement>Firenze</settlement>
+                        <repository>Bibl. Naz. Centrale</repository>
+                        <collection>Magl.</collection>
+                        <idno>VII 926</idno>
+                     </msIdentifier>
+                     <head>
+                        <origDate>1340-1360</origDate>
+                        <origPlace>Padua</origPlace>
+                        <title>Ecerinis cum commento</title>
+                     </head>
+                     <msContents>
+                        <msItem>
+                           <locus>f. 2v-12v</locus>
+                           <title>Ecerinis</title>
+                        </msItem>
+                     </msContents>
+                     
+                     <physDesc>
+                        <objectDesc form="codex">
+                           <supportDesc material="parch"> <!-- In queste sezioni non ho bisogno di inserire un contenuto, ma basta che scelgo uno degli attributi proposti dal sistema -->
+                           <extent>
+                              <measure>IV + 12 + IV ff.</measure>
+                              <measure>mm. 140 x 210</measure>
+                           </extent>
+                           <foliation>fasc. 2(6)</foliation>
+                           </supportDesc>
+                        </objectDesc>                       
+                     </physDesc>
+                     
+                     <history></history>
+                  </msDesc>
+               </witness>
+                     
+                  
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div><div type="dialogue" met="trimetro giambico"><sp who="Adeleita"><speaker>Adel.</speaker> <l>Quodnam cruentum sidus Arctoo potens</l>
+            <l>regnavit orbe, pestilens tantum michi, </l>
+            <l>gnati, nefando flebiles cum vos thoro</l>
+            <l>genui? Patris <app><lem>iam</lem><rdg wit="alpha3">iam om.</rdg></app> detegam falsi dolos</l>
+            <l>infausta mater. Non diu tellus nefas</l>
+            <l>latere patitur; durat occultum nichil.</l>
+            <l>audite nullo tempore negandum genus,</l>
+            <l>devota proles. Arx in excelso sedet</l>
+            <l>antiqua colle, longa Romanum vocat</l>
+            <l>etas: in altum porrigunt tectum trabes,</l>
+            <l>premitque turrim contigua ad austrum <app><lem>domus</lem><rdg wit="alpha3">domus om.</rdg></app>, </l>
+            <l>ventorum et omnis cladis aeree capax.</l>
+            <l>Hoc <app><lem>accubans</lem><rdg wit="alpha2">accumbens</rdg></app> ipso Monachus olim loco</l>
+            <l>parens eburno vester Ecerinus thoro est</l>
+            <l>dormire visus, cuius ad levum latus</l>
+            <l>supina iacui. Iam eloqui <app><lem>factum</lem><rdg wit="beta2">fatum</rdg></app> pudet,</l>
+            <l>pavet animus, advenit horror et membra occupat.</l> </sp>
+            <sp who="Ezzelino"><speaker>Ecer.</speaker> <l>Effare, genitrix: grande quodcumque et ferum <app><lem>est</lem><rdg wit="alpha3">est om.</rdg></app></l>
+            <l part="I">audire iuvat.</l></sp> 	<sp who="Adeleita"><speaker>Adel.</speaker> <l part="F">Heu me nefandi criminis</l>
+            <l>stupenda qualitas! <app><lem>Quasi</lem><rdg wit="beta">en</rdg></app> <app><lem>ad vultum</lem><rdg wit="beta2">ad alterum</rdg></app> redit</l>
+            <l>imago facti. Frigore solutum cadit</l>
+            <l part="I">exangue corpus.</l></sp> 	<sp who="Ezzelino"><speaker>Ecer.</speaker> <l part="F">Erige labentem cito, </l>
+            <l>Albrice, matrem: <app><lem>illusit</lem><rdg wit="beta2">illuxit</rdg></app> <app><lem>amentem</lem><rdg wit="beta2">amente</rdg></app> timor.</l>
+            <l>Resperge faciem, sincopim limphis leva. </l>
+            <l part="I">Facile resurget.</l></sp> 	<sp who="Alberico"><speaker>Albr.</speaker> <l part="F">Pristinas <app><lem>vires</lem><rdg wit="alpha3">vires om.</rdg></app> habet.</l></sp>
+            <sp who="Ezzelino"><speaker>Ecer.</speaker> <l part="I">Recolis?</l></sp>	<sp who="Adeleita"><speaker>Adel.</speaker> <l part="F">Recolo, primogenite, primum tui</l>
+            <l>natalis.</l></sp> 	<sp who="Ezzelino"><speaker>Ecer.</speaker> <l part="F">O mea mater, id pande ocius.</l></sp>
+            <sp who="Adeleita"><speaker>Adel.</speaker> <l>Cum prima noctis hora, communis quies,</l>
+            <l>omni teneret ab opere abstractum genus,</l>
+            <l>et ecce ab imo terra mugitum <app><lem>dedit</lem><rdg wit="beta2">redit</rdg></app>,</l>
+            <l>crepuisset ut centrum et foret apertum chaos,</l>
+            <l>altumque versa resonuit celum vice:</l>
+            <l>faciem aeris suphureus invasit vapor,</l>
+            <l>nubemque fecit. Tunc subito fulgur domum </l>
+            <l>lustravit ingens, fulminis ad instar, tono</l>
+            <l>sequente: oletum sparsa per thalamum tulit</l>
+            <l>fumosa nubes. Occupor tunc et premor, </l>
+            <l><app><lem>et</lem><rdg wit="alpha2">et om.</rdg></app> ecce pudor, adulterum ignotum ferens.</l> </sp>
+            <sp who="Ezzelino"><speaker>Ecer.</speaker> <l part="I">Qualis is adulter, mater?</l></sp>	<sp who="Adeleita"><speaker>Adel.</speaker> <l part="F">Haud tauro minor. </l>
+            <l>Hirsuta aduncis cornibus cervix riget,</l>
+            <l><app><lem>setis coronant hispidis illum</lem><rdg wit="alpha3">setis illum coronant hispides</rdg></app> iube;</l>
+            <l>sanguinea binis orbibus manat lues, </l>
+            <l>ignemque nares flatibus crebris vomunt:</l>
+            <l>favilla, patulis auribus surgens, salit</l>
+            <l>ab ore spirans; os quoque eructat levem</l>
+            <l>flammam, perennis lambit et barbam focus.</l>
+            <l>Votis potitus talis ut adulter suis</l>
+            <l>implevit uterum Venere letali meum, </l>
+            <l>cum strage cessit victor e thalamo, petens</l>
+            <l>telluris ima; cessit et tellus sibi.</l>
+            <l>Sed heu recepta pertinax nimium Venus</l>
+            <l>incaluit intus viscera exagitans statim;</l>
+            <l>onusque sensit terribile venter tui,</l>
+            <l>Ecerine, <app><lem>digna veraque</lem><rdg wit="beta1">et digna vera</rdg></app> propago patris.</l>
+            <l>Testor supernum numen adversum michi:</l>
+            <l>quos egi abinde <app><lem>tunc</lem><rdg wit="alpha2">tunc om.</rdg></app> gravida menses decem, </l>
+            <l>lacrime fuere, angustie, gemitus, dolor;</l>
+            <l>interna gessit bella visceribus furor.</l>
+            <l>Nec monstruoso, nate, sine partu venis.</l></sp>
+            <sp who="Ezzelino"><speaker>Ecer.</speaker> <l part="I">Qualis?</l> </sp>	<sp who="Adeleita"><speaker>Adel.</speaker> <l part="F">Necis pronosticus ventrem levas,</l>
+            <l><app><lem>cruentus infans</lem><rdg wit="alpha3">cruentas in fauces</rdg></app>, fronte crudeli minax,</l>
+            <l>terribile visu atroxque portentum indicans.</l>
+            <l>Tu, care fili Albrice, iam video tuos</l>
+            <l>attendis ortus: <app><lem>nosce</lem><rdg wit="beta2">noscere</rdg></app>. Si quicquam scio, </l>
+            <l>tu quoque scies: penitus dubia semper fui</l>
+            <l>quis te <app><lem>huic</lem><rdg wit="beta3">hoc</rdg></app> nephando corpori inseruit pater.</l>
+            <l>A tempore quidem, nate, dicti criminis </l>
+            <l>semper medullas ussit Ethneus calor, </l>
+            <l>viscera malignus abinde torsit spiritus,</l>
+            <l>nec nostra curis <app><lem>pectora</lem><rdg wit="alpha">corpora</rdg></app> absolvit sopor.</l>
+            <l><app><lem>Cum</lem><rdg wit="alpha1">Tunc</rdg></app> me vigilia vana seu somni quies</l>
+            <l>incerta tenuit, – vera ne prosus negem</l>
+            <l>aut falsa fatear – utitur eodem stupro</l>
+               <l>adulter idem, verus Ecerini pater.</l></sp>
+            <sp who="Ezzelino"><speaker>Ecer.</speaker> <l>Quid poscis ultra, frater? An tanti pudet,</l>
+            <l>vesane, patris? <app><lem>Abnegas</lem><rdg wit="alpha2">An negas</rdg></app> divum genus?</l>
+            <l>Diis gignimur. Nec stirpe tanta Romulus</l>
+            <l>Rhemusque quondam Marte tolluntur suo. </l>
+            <l>Hic maior est, latissimi regni deus,</l> 
+            <l>rex ultionum, cuius imperio luunt</l>
+            <l>penas potentes, principes, reges, duces.</l>
+            <l>Erimus paterno iudices digni foro,</l>
+            <l>si vendicemus operibus regnum patris,</l>
+            <l>cui bella, mortes, exilia, fraudes, doli,</l>
+            <l>perditio et omnis generis humani placent.</l></sp>
+            <stage type="mixed"><l>[Sic fatus ima parte secessit domus</l>
+            <l>petens latebras, luce et exclusa caput</l>
+            <l>tellure pronus sternit in faciem cadens</l>
+            <l>tunditque solidam dentibus frendens humum</l>
+            <l>patremque seva voce letiferum ciet:]</l></stage>
+            <sp who="Ezzelino"><l>Depulse <app><lem>ab astris</lem><rdg wit="beta2">abstractis</rdg></app>, mane iam lucens polis, </l>
+            <l>pater superbe, triste qui regnum tenes</l>
+            <l>chaos profundi, cuius imperio luunt</l>
+            <l>delicta Manes, excipe ex imo specu, </l>
+            <l>Vulcane, dignas supplicis gnati preces. </l>
+            <l>Te certa et indubitata progenies vocat.</l>
+            <l><app><lem>Potiare</lem><rdg wit="alpha2">Paciare</rdg></app> me; <app><lem>experiare</lem><rdg wit="alpha2">experiri</rdg></app>, si quicquam potest</l>
+            <l>insita voluntas pectori flagrans meo.</l> 
+            <l>Paludis atre lividam testor Stigem,</l>
+            <l>Christum negavi semper exosum michi</l>
+            <l>odique semper nomen inimicum Crucis.</l>
+            <l>Assint ministre facinorum comites michi:</l>
+            <l>suadeat Alecto scelera, Thesiphone explicet,</l>
+            <l>Megera in actus seva prorumpat truces, </l>
+            <l>faveatque ceptis diva Persephone meis. </l>
+            <l>Ingenia prede quisque sollicitus paret, </l>
+            <l>nec infernorum spiritus quisquam vacet;</l>
+            <l>animos ad <app><lem>iras</lem><rdg wit="beta2">iram</rdg></app>, <app><lem>odia</lem><rdg wit="alpha1">qui odia</rdg></app> et invidias citent.</l>
+            <l>Ensis cruenti detur officium michi.</l>
+            <l>Ipse executor finiam lites <app><lem>merus</lem><rdg wit="alpha1">metus</rdg></app>.</l>
+            <l>Nullis tremescet sceleribus fidens manus.</l>
+            <l>Annue, Sathan, et filium talem proba.</l></sp></div>
+            <div type="Chorus" met="gliconeo"><sp who="Chorus"><speaker>Chor.</speaker> <l>Quis vos exagitat furor,</l>
+            <l>o mortale hominum genus?</l>
+            <l><app><lem>Quo vos ambitio vehit?</lem><rdg wit="alpha1">Quonam scandere pergitis</rdg></app></l>
+            <l><app><lem>Quonam scandere pergitis?</lem><rdg wit="alpha1">Quo vos ambitio vehit?</rdg></app></l>
+            <l>Nescitis cupidi nimis</l>
+            <l>quo discrimine queritis</l>
+            <l>regni culmina lubrici:</l>
+            <l><app><lem>diros</lem><rdg wit="alpha2">duros</rdg></app> expetitis metus,</l>
+            <l>mortis continuas minas. </l>
+            <l>Mors est mixta tyrannidi, </l>
+            <l>non est <app><lem>morte minor</lem><rdg wit="#alpha2 #beta3">minor morte</rdg></app> metus.</l>
+            <l>Ast hec dicere quid valet?</l>
+            <l>Sic est: sic animus volat;</l>
+            <l>tunc, cum grandia possidet,</l>
+            <l><app><lem>illis non penitus satur,</lem><rdg wit="alpha">cor maiora recogitat</rdg></app></l>
+            <l><app><lem>cor maiora recogitat.</lem><rdg wit="alpha">illis non penitus satur.</rdg></app></l>
+            <l>Vos in iurgia, nobiles,</l> 
+            <l>atrox invidie scelus</l>
+            <l><app><lem>ardens elicit,</lem><rdg wit="alpha">ardet allicit</rdg></app> inficit:</l>
+            <l>numquam quis patitur parem.</l>
+            <l>O quam multa <app><lem>potentium</lem><rdg wit="alpha1">potentum</rdg></app></l>
+            <l>nos et scandala cordibus</l>
+            <l>plebs vilissima iungimus!</l>
+            <l>Illos tollimus altius,</l>
+            <l>hos deponimus infimos.</l>
+            <l>Leges iuraque condimus,</l>
+            <l>post hec condita scindimus.</l>
+            <l>Nobis retia tendimus;</l>
+            <l>Mortale auxilium damus;</l>
+            <l>falsum presidium sumus.</l>
+            <l>Hec demum iugulis luunt.</l>
+            <l>Nos secum miseri trahunt,</l>
+            <l>nos secum cadimus; cadunt. </l>
+            <l>Sic semper rota volvitur:</l>
+            <l>durat perpetuum nichil.</l>
+            <l>En cur Marchia nobilis</l>
+            <l>hec Tarvisia sic fremit.</l>
+            <l>Signis undique classicis</l>
+            <l>clamor bellicus obstrepit;</l>
+            <l>exardet furor excitus,</l>
+            <l><app><lem>gentes</lem><rdg wit="alpha2">sontes</rdg></app> <app><lem>e</lem><rdg wit="beta2">et</rdg></app> requie trahit;</l>
+            <l>cives otia deserunt.</l>
+            <l>Dirum pax peperit nephas.</l>
+            <l>Bullit sanguinis impetus </l>
+            <l>et certamina postulat;</l>
+            <l>partes crimina detegunt;</l>
+            <l>ferrum poscitur urbibus, </l>
+            <l>turbat iustitie forum.</l>
+            <l>Verona venit anxius,</l>
+            <l>qui iam fert nova, nuntius.</l></sp></div>
+         </div>
+      </body>
+  </text>
+</TEI>
