@@ -1,8 +1,12 @@
 /* Place project-specific CSS here */
 
 
-app {
-  display: block;
-  text-align: right;
-  color: yellow;
+lem {
+  display: inline;
+}
+
+rdg {
+	display: block
+	text-align: right;
+	color: blue;
 }
