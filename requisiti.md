@@ -34,10 +34,10 @@ L’Università di Verona mette a disposizione dei computer; ove possibile, per 
 
 #### WINDOWS
 - **[Cygwin](https://www.cygwin.com/)**. Istruzioni di installazione [qui](https://www.youtube.com/watch?v=hh-V6el8Oxk). Cygwin emula la linea di comando propria di sistemi Unix (MAC OSX/Linux).
-	- Pacchetti da installare: 
+	<!-- Pacchetti da installare: 
 		- `vim`
 		- `make`
-		- `gcc-core`
+		- `gcc-core`-->
 - **[TreeTagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)**. Nella sezione “Windows version” della homepage di TreeTagger cliccare sul link `Windows64` (64-bit) o `Windows32` (32-bit) a seconda del proprio processore (trovate tutte le informazioni relative al vostro processore nelle vostre "Proprietà del sistema").
 
 #### MAC
