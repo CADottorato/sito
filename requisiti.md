@@ -38,7 +38,7 @@ L’Università di Verona mette a disposizione dei computer; ove possibile, per 
 		- `vim`
 		- `make`
 		- `gcc-core`-->
-- **[TreeTagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)**. Nella sezione “Windows version” della homepage di TreeTagger cliccare sul link `Windows64` (64-bit) o `Windows32` (32-bit) a seconda del proprio processore (trovate tutte le informazioni relative al vostro processore nelle vostre "Proprietà del sistema").
+- **TreeTagger**. Instruzioni dettagliate (in inglese) [qui](https://github.com/CADottorato/sito/blob/master/treetagger-windows.md). 
 
 #### MAC
 - **[Homebrew](https://brew.sh/)**
