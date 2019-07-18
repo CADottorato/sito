@@ -1,2 +1,8 @@
 /* Place project-specific CSS here */
 
+
+app {
+  display: block;
+  text-align: right;
+  color: yellow;
+}
