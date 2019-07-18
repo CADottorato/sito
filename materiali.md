@@ -77,5 +77,10 @@ Corso 2: [tutto](materiali/tei/corso_2.zip), [slides](https://github.com/CADotto
 
 ### Diffondere la ricerca online
 
+[Slides](https://elespdn.github.io/talks/20190719_verona/20190719_webPubVerona.html#/)
+
+[Esercizio HTML](https://cadottorato.github.io/sito/materiali/pub/exerciseHTML.zip)
+
+[Esercizio CSS](https://cadottorato.github.io/sito/materiali/pub/CSS.zip)
 
 ---
