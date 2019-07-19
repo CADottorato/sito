@@ -48,34 +48,46 @@ Extract the zip file, rename the resulting folder to `TreeTagger` and **move thi
 If the files have been unpacked into a single directory, you should
 restore the following directory structure:
 
-TreeTagger:<br />
-`INSTALL.txt`<br />
-`README.txt`<br />
-`bin`<br /> 
-`cmd`<br />
-`lib`
+TreeTagger:
 
-TreeTagger/bin:<br />
-`tag-english.bat`<br />
-`tag-german.bat`<br />  
-`tag-spanish.bat`<br />         
-`tag-french.bat`<br />    
-`tag-italian.bat`<br />  
-`train-tree-tagger.exe`<br /> 
-`tree-tagger.exe`
+```
+INSTALL.txt
+README.txt
+bin 
+cmd
+lib
+```
 
-TreeTagger/cmd:<br />
-`mwl-lookup.perl`<br />
-`tokenize.pl`
+TreeTagger/bin:
 
-TreeTagger/lib:<br />
-`english-abbreviations`<br /> 
-`german-abbreviations`<br />   
-`spanish-abbreviations`<br />
-`french-abbreviations`<br />   
-`italian-abbreviations`<br />  
-`spanish-mwls`<br />  
-`*language*.par`
+```
+tag-english.bat
+tag-german.bat 
+tag-spanish.bat        
+tag-french.bat    
+tag-italian.bat
+train-tree-tagger.exe
+tree-tagger.exe
+```
+
+TreeTagger/cmd:
+
+```
+mwl-lookup.perl
+tokenize.pl
+```
+
+TreeTagger/lib:
+
+```
+english-abbreviations 
+german-abbreviations   
+spanish-abbreviations
+french-abbreviations   
+italian-abbreviations 
+spanish-mwls  
+*language*.par
+```
 
 
 ### Run TreeTagger
