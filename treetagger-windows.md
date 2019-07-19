@@ -30,11 +30,11 @@ First of all, you need to download and install a Perl interpreter (if you have n
 
 Download these TreeTagger files from the [official TreeTagger website](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/):
 
-![alt text](../img/treetagger-files.png "TreeTagger files to download")
+![alt text](img/treetagger-files.png "TreeTagger files to download")
 
 1. `Windows64` or `Windows32` zip file according to your computer's processor. The downloaded file will look something like this: `tree-tagger-windows-3.2.2.zip`
 
-![alt text](https://github.com/CADottorato/sito/tree/master/img/windows-download.png "Windows section of TreeTagger's website")
+![alt text](img/windows-download.png "Windows section of TreeTagger's website")
 
 Extract the zip file, rename the resulting folder to `TreeTagger` and **move this folder to the root directory of drive `C:`**.
 
@@ -49,25 +49,40 @@ If the files have been unpacked into a single directory, you should
 restore the following directory structure:
 
 TreeTagger:<br />
-`INSTALL.txt`  `README.txt`  `bin`  `cmd`  `lib`
+`INSTALL.txt`<br />
+`README.txt`<br />
+`bin`<br /> 
+`cmd`<br />
+`lib`
 
 TreeTagger/bin:<br />
-`tag-english.bat`  `tag-german.bat`   `tag-spanish.bat`        `tree-tagger.exe`
-`tag-french.bat`   `tag-italian.bat`  `train-tree-tagger.exe`
+`tag-english.bat`<br />
+`tag-german.bat`<br />  
+`tag-spanish.bat`<br />         
+`tag-french.bat`<br />    
+`tag-italian.bat`<br />  
+`train-tree-tagger.exe`<br /> 
+`tree-tagger.exe`
 
 TreeTagger/cmd:<br />
-`mwl-lookup.perl`  `tokenize.pl`
+`mwl-lookup.perl`<br />
+`tokenize.pl`
 
 TreeTagger/lib:<br />
-`english-abbreviations`  `german-abbreviations`   `spanish-abbreviations`
-`french-abbreviations`   `italian-abbreviations`  `spanish-mwls`  `*language*.par`
+`english-abbreviations`<br /> 
+`german-abbreviations`<br />   
+`spanish-abbreviations`<br />
+`french-abbreviations`<br />   
+`italian-abbreviations`<br />  
+`spanish-mwls`<br />  
+`*language*.par`
 
 
 ### Run TreeTagger
 
 TreeTagger is not a programme you install but must be launched from the Command Line. So, open the Command Prompt (Click on the Windows Start button search for 'Command Prompt'). You should see this:
 
-![alt text](https://github.com/CADottorato/sito/tree/master/img/terminal.png "Command Prompt window")
+![alt text](img/terminal.png "Command Prompt window")
 
 1. navigate to the **C:** drive with the `cd` command: cd `c:`
 

@@ -19,7 +19,6 @@ Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.
 Showcase:
 
 - Codifica dei testi [materiali](materiali/tei/showcase.zip)
-
 - Diffondere la ricerca online [[link](https://elespdn.github.io/talks/20190719_verona/20190719_showcase.html#/)&#x7c;[pdf](materiali/intro/showcase)]
 
 
@@ -27,19 +26,16 @@ Showcase:
 
 ### Dalla carta alla schermo
 
-[Slides](materiali/ocr/Bazzaco_pptCAD2019.pdf)
-
-[Bibliografia](materiali/ocr/bibliografia_OCR_per_umanisti.pdf)
+- [Slides](materiali/ocr/Bazzaco_pptCAD2019.pdf)
+- [Bibliografia](materiali/ocr/bibliografia_OCR_per_umanisti.pdf)
 
 ---
 
 ### Codifica dei testi
 
-Corso 1: [tutto](materiali/tei/corso_1.zip), [slides](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_1/TEI_1.md), [esercizio](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_1/Esercizio_1/Esercizio_1.md)
-
-Corso 2: [tutto](materiali/tei/corso_2.zip), [slides](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_2/TEI_2.md) 
-
-[Progetto Oxygen](materiali/tei/Corso_2019_07_16_Verona.xpr)
+- Corso 1: [tutto](materiali/tei/corso_1.zip), [slides](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_1/TEI_1.md), [esercizio](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_1/Esercizio_1/Esercizio_1.md)
+- Corso 2: [tutto](materiali/tei/corso_2.zip), [slides](https://github.com/CADottorato/sito/blob/master/materiali/tei/corso_2/TEI_2.md) 
+- [Progetto Oxygen](materiali/tei/Corso_2019_07_16_Verona.xpr)
 
 
 ---
@@ -66,7 +62,7 @@ Corso 2: [tutto](materiali/tei/corso_2.zip), [slides](https://github.com/CADotto
 
 ### Analisi semantica e di stile
 
-[Materiali](https://owncloud.gwdg.de/index.php/s/XsziMPRXz8kRWWU)
+- [Materiali](https://owncloud.gwdg.de/index.php/s/XsziMPRXz8kRWWU)
 
 ---
 
@@ -77,10 +73,8 @@ Corso 2: [tutto](materiali/tei/corso_2.zip), [slides](https://github.com/CADotto
 
 ### Diffondere la ricerca online
 
-[Slides](https://elespdn.github.io/talks/20190719_verona/20190719_webPubVerona.html#/)
-
-[Esercizio HTML](https://cadottorato.github.io/sito/materiali/pub/exerciseHTML.zip)
-
-[Esercizio CSS](https://cadottorato.github.io/sito/materiali/pub/CSS.zip)
+- [Slides](https://elespdn.github.io/talks/20190719_verona/20190719_webPubVerona.html#/)
+- [Esercizio HTML](https://cadottorato.github.io/sito/materiali/pub/exerciseHTML.zip)
+- [Esercizio CSS](https://cadottorato.github.io/sito/materiali/pub/CSS.zip)
 
 ---
