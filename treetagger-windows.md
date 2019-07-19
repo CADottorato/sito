@@ -28,21 +28,20 @@ First of all, you need to download and install a Perl interpreter (if you have n
 
 ### TreeTagger downloads
 
-Download these TreeTagger files from the [official TreeTagger website](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/):
+1. Download these TreeTagger files from the [official TreeTagger website](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/):
 
 ![alt text](img/treetagger-files.png "TreeTagger files to download")
 
-1. `Windows64` or `Windows32` zip file according to your computer's processor. The downloaded file will look something like this: `tree-tagger-windows-3.2.2.zip`
+`Windows64` or `Windows32` zip file according to your computer's processor. The downloaded file will look something like this: `tree-tagger-windows-3.2.2.zip`
 
-<kbd>
+
 ![alt text](img/windows-download.png "Windows section of TreeTagger's website")
-</kbd>
 
-Extract the zip file, rename the resulting folder to `TreeTagger` and **move this folder to the root directory of drive `C:`**.
 
-2. Download the tagging scripts: `tagger-scripts.tar.gz`
-3. Download the script `install-tagger.sh`
-4. Download the parameter files (trained models) for the languages you need. Unzip them (e.g. using Winzip or 7zip) and move the resulting `.par` file to the `lib` subfolder of the `TreeTagger` folder.
+2. Extract the zip file, rename the resulting folder to `TreeTagger` and **move this folder to the root directory of drive `C:`**.
+3. Download the tagging scripts: `tagger-scripts.tar.gz`
+4. Download the script `install-tagger.sh`
+5. Download the parameter files (trained models) for the languages you need. Unzip them (e.g. using Winzip or 7zip) and move the resulting `.par` file to the `lib` subfolder of the `TreeTagger` folder.
 
 
 If the files have been unpacked into a single directory, you should

@@ -49,12 +49,12 @@ layout: default
 
 - Modello [D(h)ante](https://dh.fbk.eu/D%28h%29ante) (solo PoS, no lemmatizzazione): [italian-dhante.par](materiali/nlp/italian-dhante.par)
 
-[**Slide**](materiali/nlp/slides/index.html)
+**Slide**
 
+- [Slides](materiali/nlp/slides/index.html)
 
 
 ---
-
 
 
 ### Analisi semantica e di stile
