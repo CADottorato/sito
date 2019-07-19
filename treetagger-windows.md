@@ -9,7 +9,7 @@ layout: default
 &#11025; [Torna alla Homepage](index.md)
 <br/>
 
-# How to install the Windows version of the TreeTagger                     
+## How to install the Windows version of TreeTagger                     
 
 The Windows distribution of TreeTagger contains the following files:
 
@@ -22,15 +22,15 @@ into one-word-perl-line format
 - `chunk-*.bat`: batch files for POS tagging and chunking
 
 
-## Perl Interpreter
+### Perl Interpreter
 
-First of all, you need to download and install a Perl interpreter (if you have not already installed one). You can download a Perl interpreter for Windows for free at: http://strawberryperl.com
+First of all, you need to download and install a Perl interpreter (if you have not already installed one). You can download a Perl interpreter for Windows for free at: <a href="http://strawberryperl.com" target="_blank" title="Opens in new tab">http://strawberryperl.com</a>
 
-## TreeTagger downloads
+### TreeTagger downloads
 
 Download these TreeTagger files from the [official TreeTagger website](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/):
 
-![alt text](https://github.com/CADottorato/sito/tree/master/img/treetagger-files.png "TreeTagger files to download")
+![alt text](../img/treetagger-files.png "TreeTagger files to download")
 
 1. `Windows64` or `Windows32` zip file according to your computer's processor. The downloaded file will look something like this: `tree-tagger-windows-3.2.2.zip`
 
@@ -63,7 +63,7 @@ TreeTagger/lib:<br />
 `french-abbreviations`   `italian-abbreviations`  `spanish-mwls`  `*language*.par`
 
 
-## Run TreeTagger
+### Run TreeTagger
 
 TreeTagger is not a programme you install but must be launched from the Command Line. So, open the Command Prompt (Click on the Windows Start button search for 'Command Prompt'). You should see this:
 
@@ -81,7 +81,7 @@ TreeTagger is not a programme you install but must be launched from the Command 
 5. Press ENTER and you should now see the tagger in action. If you wish to save the results to a file, type `tag-english INSTALL.txt > results.txt` and the tagged texts will appear in your `TreeTagger folder`.
 
 
-## Troubleshooting
+### Troubleshooting
 
 1. If you install the TreeTagger in a different directory (so not in the C: drive), you have to modify the first path in the batch files `tag-*.bat` using an editor such as Wordpad or Sublime Text Editor.
 
