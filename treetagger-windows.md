@@ -95,7 +95,7 @@ TreeTagger is not a programme you install but must be launched from the Command 
 
 ![alt text](img/terminal.png "Command Prompt window")
 
-1. navigate to the **C:** drive with the `cd` command: cd `c:`
+1. Navigate to the **C:** drive with the `cd` command: `cd c:`
 2. Next, type: `PATH=C:\TreeTagger\bin;%PATH%`
 3. Next, navigate to the `TreeTagger` folder: cd `TreeTagger`. Your present working directory should now be: `c:\TreeTagger`
 4. Now you can test the tagger on the `INSTALL.txt` file contained in the `TreeTagger` folder: 
