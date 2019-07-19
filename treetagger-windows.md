@@ -1,3 +1,14 @@
+---
+layout: default
+---
+
+![CAD-logo](assets/img/CAD-logo-long.png)
+
+# Codificare, Analizzare, Diffondere: <br />Le *Digital Humanities* nei progetti di ricerca
+<br/>
+&#11025; [Torna alla Homepage](index.md)
+<br/>
+
 # How to install the Windows version of the TreeTagger                     
 
 The Windows distribution of TreeTagger contains the following files:
@@ -95,4 +106,3 @@ PARFILE=${LIB}/italian.par
 $TOKENIZER -i -a $ABBR_LIST $* |
 $TAGGER $OPTIONS $PARFILE
 ```
-

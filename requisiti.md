@@ -38,7 +38,7 @@ L’Università di Verona mette a disposizione dei computer; ove possibile, per 
 		- `vim`
 		- `make`
 		- `gcc-core`-->
-- **TreeTagger**. Instruzioni dettagliate (in inglese) [qui](https://github.com/CADottorato/sito/blob/master/treetagger-windows.md). 
+- **TreeTagger**. Instruzioni dettagliate (in inglese) [QUI](treetagger-windows.md). 
 
 #### MAC
 - **[Homebrew](https://brew.sh/)**
