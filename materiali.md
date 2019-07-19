@@ -14,12 +14,10 @@ layout: default
 
 ### Intro
 
-Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.html#/)&#x7c;[pdf](materiali/intro/CADverona_intro.pdf)]
-
-Showcase:
-
-- Codifica dei testi [materiali](materiali/tei/showcase.zip)
-- Diffondere la ricerca online [[link](https://elespdn.github.io/talks/20190719_verona/20190719_showcase.html#/)&#x7c;[pdf](materiali/intro/showcase)]
+- Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.html#/)&#x7c;[pdf](materiali/intro/CADverona_intro.pdf)]
+- Showcase:
+	- Codifica dei testi [materiali](materiali/tei/showcase.zip)
+	- Diffondere la ricerca online [[link](https://elespdn.github.io/talks/20190719_verona/20190719_showcase.html#/)&#x7c;[pdf](materiali/intro/showcase)]
 
 
 ---
@@ -42,16 +40,16 @@ Showcase:
 
 ### Trattamento Automatico del Linguaggio
 
-#### Testi
+**Testi**<br />
 
 - _Due alchimisti italiani_, Racconti storici e morali, di Cesare Cantù (1878): [cantu_due-alchimisti-italiani_1878.txt](https://github.com/CADottorato/sito/blob/master/materiali/nlp/cantu_due-alchimisti-italiani_1878.txt)
 - _Che cos'è il mondo_, Novelle, di Adolfo Albertazzi (1940): [albertazzi_il-mondo_1940.txt](https://github.com/CADottorato/sito/blob/master/materiali/nlp/albertazzi_il-mondo_1940.txt)
 
-#### TreeTagger
+**TreeTagger**<br />
 
 - Modello [D(h)ante](https://dh.fbk.eu/D%28h%29ante) (PoS, no lemma): [italian-dhante.par](https://github.com/CADottorato/sito/blob/master/materiali/nlp/italian-dhante.par)
 
-#### Slide
+**Slide**<br />
 
 - Prossimamente
 
@@ -76,5 +74,3 @@ Showcase:
 - [Slides](https://elespdn.github.io/talks/20190719_verona/20190719_webPubVerona.html#/)
 - [Esercizio HTML](https://cadottorato.github.io/sito/materiali/pub/exerciseHTML.zip)
 - [Esercizio CSS](https://cadottorato.github.io/sito/materiali/pub/CSS.zip)
-
----
