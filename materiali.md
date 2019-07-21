@@ -18,7 +18,9 @@ layout: default
 - Showcase:
 	- Codifica dei testi [materiali](materiali/tei/showcase.zip)
 	- Diffondere la ricerca online [[link](https://elespdn.github.io/talks/20190719_verona/20190719_showcase.html#/)&#x7c;[pdf](materiali/intro/showcase)]
-
+- Keynotes:
+	- Elena Pierazzo, [Di libri, documenti e testi. E del loro futuro (digitale)]()
+	- Fabio Ciotti
 
 ---
 
