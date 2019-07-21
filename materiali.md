@@ -12,14 +12,14 @@ layout: default
 ## Materiali
 
 
-### Intro
+### Introduzione
 
 - Slides [[link](https://elespdn.github.io/talks/20190719_verona/20190719_introDH.html#/)&#x7c;[pdf](materiali/intro/CADverona_intro.pdf)]
 - Showcase:
 	- Codifica dei testi [materiali](materiali/tei/showcase.zip)
 	- Diffondere la ricerca online [[link](https://elespdn.github.io/talks/20190719_verona/20190719_showcase.html#/)&#x7c;[pdf](materiali/intro/showcase)]
 - Keynotes:
-	- Elena Pierazzo, [Di libri, documenti e testi. E del loro futuro (digitale)]()
+	- Elena Pierazzo, [Di libri, documenti e testi. E del loro futuro (digitale)](https://www.dropbox.com/s/lued5l4kqmw9dck/DSE.pdf?dl=0)
 	- Fabio Ciotti
 
 ---
