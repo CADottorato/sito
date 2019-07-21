@@ -40,18 +40,10 @@ layout: default
 
 ### Trattamento Automatico del Linguaggio
 
-**Testi**<br />
-
-- _Due alchimisti italiani_, Racconti storici e morali, di Cesare Cantù (1878): [cantu_due-alchimisti-italiani_1878.txt](materiali/nlp/cantu_due-alchimisti-italiani_1878.txt)
-- _Che cos'è il mondo_, Novelle, di Adolfo Albertazzi (1940): [albertazzi_il-mondo_1940.txt](materiali/nlp/albertazzi_il-mondo_1940.txt)
-
-**TreeTagger**<br />
-
-- Modello [D(h)ante](https://dh.fbk.eu/D%28h%29ante) (solo PoS, no lemmatizzazione): [italian-dhante.par](materiali/nlp/italian-dhante.par)
-
-**Slide**
-
-- [Slides](materiali/nlp/slides/index.html)
+- **TESTO**: _Due alchimisti italiani_, Racconti storici e morali, di Cesare Cantù (1878): [cantu_due-alchimisti-italiani_1878.txt](materiali/nlp/cantu_due-alchimisti-italiani_1878.txt)
+- **TESTO**: _Che cos'è il mondo_, Novelle, di Adolfo Albertazzi (1940): [albertazzi_il-mondo_1940.txt](materiali/nlp/albertazzi_il-mondo_1940.txt)
+- **TREETAGGER**: Modello [D(h)ante](https://dh.fbk.eu/D%28h%29ante) (solo PoS, no lemmatizzazione): [italian-dhante.par](materiali/nlp/italian-dhante.par)
+- **[SLIDES](materiali/nlp/slides/index.html)**
 
 
 ---
